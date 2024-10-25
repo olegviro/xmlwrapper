@@ -1,0 +1,2344 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en"><?properties open_access?><front><journal-meta><journal-id journal-id-type="publisher-id">40598</journal-id>
+<journal-title-group><journal-title>Arnold Mathematical Journal</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Arnold Math J.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2199-6792</issn>
+<issn pub-type="epub">2199-6806</issn>
+<publisher><publisher-name>Springer International Publishing</publisher-name>
+<publisher-loc>Cham</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">s40598-021-00184-w</article-id>
+<article-id pub-id-type="manuscript">184</article-id>
+<article-id pub-id-type="doi">10.1007/s40598-021-00184-w</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Contribution</subject>
+</subj-group>
+</article-categories>
+<title-group><article-title xml:lang="en">Surfaces of Section for Seifert Fibrations</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" id="Au1"><name><surname>Albach</surname>
+<given-names>Bernhard</given-names>
+</name>
+<xref ref-type="aff" rid="Aff1">1</xref>
+</contrib>
+<contrib contrib-type="author" corresp="yes" id="Au2"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0002-1360-1062</contrib-id>
+<name><surname>Geiges</surname>
+<given-names>Hansjörg</given-names>
+</name>
+<xref ref-type="aff" rid="Aff1">1</xref>
+<xref ref-type="corresp" rid="IDs4059802100184w_cor2">b</xref>
+</contrib>
+<aff id="Aff1"><label>1</label>
+<institution-wrap><institution-id institution-id-type="GRID">grid.6190.e</institution-id>
+<institution-id institution-id-type="ISNI">0000 0000 8580 3777</institution-id>
+<institution content-type="org-division">Mathematisches Institut</institution>
+<institution content-type="org-name">Universität zu Köln</institution>
+</institution-wrap>
+<addr-line content-type="street">Weyertal 86-90</addr-line>
+<addr-line content-type="postcode">50931</addr-line>
+<addr-line content-type="city">Cologne</addr-line>
+<country country="DE">Germany</country>
+</aff>
+</contrib-group>
+<author-notes><corresp id="IDs4059802100184w_cor2"><label>b</label>
+<email>geiges@math.uni-koeln.de</email>
+</corresp>
+</author-notes>
+<pub-date date-type="pub" publication-format="electronic"><day>5</day>
+<month>8</month>
+<year>2021</year>
+</pub-date>
+<fpage>1</fpage>
+<lpage>25</lpage>
+<history><date date-type="registration"><day>19</day>
+<month>7</month>
+<year>2021</year>
+</date>
+<date date-type="received"><day>20</day>
+<month>2</month>
+<year>2021</year>
+</date>
+<date date-type="rev-recd"><day>22</day>
+<month>6</month>
+<year>2021</year>
+</date>
+<date date-type="accepted"><day>18</day>
+<month>7</month>
+<year>2021</year>
+</date>
+<date date-type="online"><day>5</day>
+<month>8</month>
+<year>2021</year>
+</date>
+</history>
+<permissions><copyright-statement>© The Author(s) 2021</copyright-statement>
+<copyright-year>2021</copyright-year>
+<license license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/4.0/"><license-p><bold>Open Access</bold>
+This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy of this licence, visit <ext-link xlink:href="http://creativecommons.org/licenses/by/4.0/" ext-link-type="url">http://creativecommons.org/licenses/by/4.0/</ext-link>
+.</license-p>
+</license>
+</permissions>
+<abstract id="Abs1" xml:lang="en"><title>Abstract</title>
+
+<p id="Par1">We classify global surfaces of section for flows on 3-manifolds defining Seifert fibrations. We discuss branched coverings—one way or the other—between surfaces of section for the Hopf flow and those for any other Seifert fibration of the 3-sphere, and we relate these surfaces of section to algebraic curves in weighted complex projective planes.</p>
+</abstract>
+<kwd-group xml:lang="en"><title>Keywords</title>
+<kwd>Surface of section</kwd>
+<kwd>Seifert fibration</kwd>
+<kwd>Weighted projective plane</kwd>
+<kwd>Algebraic curve</kwd>
+<kwd>Branched covering</kwd>
+</kwd-group>
+<kwd-group><title>Mathematics Subject Classification</title>
+<kwd>57R30</kwd>
+<kwd>14H50</kwd>
+<kwd>30F99</kwd>
+<kwd>37J39</kwd>
+<kwd>57M12</kwd>
+</kwd-group>
+<funding-group><award-group><funding-source><institution-wrap><institution>Deutsche Forschungsgemeinschaft</institution>
+<institution-id institution-id-type="doi" vocab="open-funder-registry">http://dx.doi.org/10.13039/501100001659</institution-id>
+</institution-wrap>
+</funding-source>
+<award-id award-type="FundRef grant">SFB/TRR 191, Project-ID 281071066-TRR 191</award-id>
+</award-group>
+</funding-group>
+<custom-meta-group><custom-meta><meta-name>publisher-imprint-name</meta-name>
+<meta-value>Springer</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-contains-esm</meta-name>
+<meta-value>No</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-numbering-style</meta-name>
+<meta-value>ContentOnly</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-registration-date-year</meta-name>
+<meta-value>2021</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-registration-date-month</meta-name>
+<meta-value>7</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-registration-date-day</meta-name>
+<meta-value>19</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-toc-levels</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-product</meta-name>
+<meta-value>ArchiveJournal</meta-value>
+</custom-meta>
+<custom-meta><meta-name>numbering-style</meta-name>
+<meta-value>ContentOnly</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-grants-type</meta-name>
+<meta-value>OpenChoice</meta-value>
+</custom-meta>
+<custom-meta><meta-name>metadata-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>abstract-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>bodypdf-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>bodyhtml-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>bibliography-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>esm-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>online-first</meta-name>
+<meta-value>true</meta-value>
+</custom-meta>
+<custom-meta><meta-name>pdf-file-reference</meta-name>
+<meta-value>BodyRef/PDF/40598_2021_Article_184.pdf</meta-value>
+</custom-meta>
+<custom-meta><meta-name>pdf-type</meta-name>
+<meta-value>Typeset</meta-value>
+</custom-meta>
+<custom-meta><meta-name>target-type</meta-name>
+<meta-value>OnlinePDF</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-type</meta-name>
+<meta-value>OriginalPaper</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-subject-primary</meta-name>
+<meta-value>Mathematics</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-subject-secondary</meta-name>
+<meta-value>Mathematics, general</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-subject-collection</meta-name>
+<meta-value>Mathematics and Statistics</meta-value>
+</custom-meta>
+<custom-meta><meta-name>open-access</meta-name>
+<meta-value>true</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+<notes notes-type="Misc"><p>This research is part of a project in the SFB/TRR 191 <italic>Symplectic Structures in Geometry, Algebra and Dynamics</italic>
+, funded by the DFG (Project-ID 281071066—TRR 191).</p>
+</notes>
+</front>
+<body>
+
+<sec id="Sec1"><title>Introduction</title>
+
+<p id="Par2">Global surfaces of section are an important tool for understanding the dynamics of non-singular vector fields on manifolds. For a given flow or class of flows, it is a basic question to understand the existence of such surfaces of section, and their topological properties.</p>
+
+<p id="Par3">Here are some recent results in this direction in the context of Reeb dynamics; for a more comprehensive overview of the literature, we refer to [<xref ref-type="bibr" rid="CR1">1</xref>
+] and [<xref ref-type="bibr" rid="CR18">18</xref>
+]. Hryniewicz–Salomão–Wysocki [<xref ref-type="bibr" rid="CR9">9</xref>
+] establish sufficient (and $C^{\infty }$
+-generically necessary) conditions for a finite collection of periodic orbits of a Reeb flow on a closed 3-manifold to bound a positive global surface of section of genus zero. Building on the work of Hryniewicz [<xref ref-type="bibr" rid="CR7">7</xref>
+], who found a characterisation of the periodic Reeb orbits of dynamically convex contact forms on the 3-sphere that bound disc-like global surfaces of section, existence results for higher genus surfaces of section have been established by Hryniewicz–Salomão–Siefring [<xref ref-type="bibr" rid="CR8">8</xref>
+].</p>
+
+<p id="Par4">Even for one of the most simple flows in dimension three, the Hopf flow on the 3-sphere, global surfaces of section display rich features. The paper [<xref ref-type="bibr" rid="CR1">1</xref>
+] determines the topology of such surfaces of section and describes various ways to construct them. Furthermore, it was shown there how to relate such surfaces of section to algebraic curves in the complex projective plane, and how to interpret them as a toy model for the elementary degenerations arising in symplectic field theory; this led to a new proof of the degree-genus formula for complex projective curves.</p>
+
+<p id="Par5">The aim of the present paper is to extend the results of [<xref ref-type="bibr" rid="CR1">1</xref>
+] to all flows on 3-manifolds that define a Seifert fibration. We decide the existence question and give a topological classification of the global surfaces of section for such flows. For some classification statements, we restrict attention to <italic>positive</italic>
+ surfaces of section, which means that the boundary components are supposed to be oriented positively by the flow (see Sect. <xref rid="Sec7" ref-type="sec">3</xref>
+ for details). This is motivated by the particular interest of these positive sections, for instance in Reeb dynamics.</p>
+
+<p id="Par6">We discuss branched coverings between surfaces of section for the Hopf flow and those of any other Seifert fibration of the 3-sphere $S^3$
+. Rather intriguingly, these branched coverings can go either way, and both approaches can be used to compute the genus of positive <italic>d</italic>
+-sections with a Riemann–Hurwitz argument.</p>
+
+<p id="Par7">We also relate the surfaces of section in $S^3$
+ to algebraic curves in <italic>weighted</italic>
+ complex projective planes. On the one hand, the degree-genus formula for such algebraic curves can then be used to compute, once again, the genus of positive <italic>d</italic>
+-sections. Conversely, our direct geometric arguments for surfaces of section provide an alternative proof of this degree-genus formula. These considerations have contributed to filling a gap in the earlier versions of [<xref ref-type="bibr" rid="CR6">6</xref>
+], and they give a more geometric alternative to the arguments in [<xref ref-type="bibr" rid="CR16">16</xref>
+].</p>
+
+<p id="Par8">We hope that the explicit descriptions of global surfaces of section in the present paper will prove useful for the study of Besse manifolds (cf. Sect. <xref rid="Sec6" ref-type="sec">2.4</xref>
+) in Finsler geometry and Reeb dynamics.</p>
+</sec>
+
+
+<sec id="Sec2"><title>Seifert Manifolds</title>
+
+<p id="Par9">Let <italic>M</italic>
+ be a closed, oriented 3-manifold with a Seifert fibration $M\rightarrow B$
+ over a closed, oriented surface <italic>B</italic>
+. Many of the results in this paper also hold, <italic>mutatis mutandis</italic>
+, when <italic>M</italic>
+ or <italic>B</italic>
+ is not orientable. However, for the interpretation of the Seifert fibres as the orbits of a flow, and to be able to speak of <italic>positive</italic>
+ surfaces of section, the fibres have to be oriented.</p>
+
+<p id="Par10">We refer the reader to [<xref ref-type="bibr" rid="CR10">10</xref>
+] for the basic theory of Seifert fibred spaces.</p>
+
+
+<sec id="Sec3"><title>Seifert Invariants</title>
+
+<p id="Par11">We recall the notation and conventions for the Seifert invariants from [<xref ref-type="bibr" rid="CR3">3</xref>
+] that we shall use in the present paper. In the description of <italic>M</italic>
+ as\begin{aligned} M=M\bigl (g;(\alpha _1,\beta _1),\ldots , (\alpha _n,\beta _n)\bigr ), \end{aligned}$
+the non-negative integer <italic>g</italic>
+ stands for the genus of <italic>B</italic>
+, the $\alpha _i$
+ are positive integers giving the multiplicities of the singular fibres, and each $\beta _i$
+ is an integer coprime with the respective $\alpha _i$
+, describing the local behaviour near the singular fibre. A pair $(\alpha _i,\beta _i)$
+ with $\alpha _i=1$
+ does not actually give rise to a singular fibre, but it corresponds to a modification of the fibration that contributes to the Euler number.</p>
+
+<p id="Par12">The non-singular fibres are called regular. Near any regular fibre, the Seifert fibration is a trivial $S^1$
+-bundle.</p>
+
+<p id="Par13">When we speak of a ‘Seifert manifold <italic>M</italic>
+’, we always mean that a Seifert fibration has been chosen on the 3-manifold <italic>M</italic>
+. Some 3-manifolds admit non-isomorphic Seifert fibrations [<xref ref-type="bibr" rid="CR3">3</xref>
+, <xref ref-type="bibr" rid="CR4">4</xref>
+].</p>
+
+<p id="Par14">The topological interpretation of these invariants is as follows. Let $B_0$
+ be the surface with boundary obtained from <italic>B</italic>
+ by removing the interior of <italic>n</italic>
+ disjoint discs $D^2_1,\ldots ,D^2_n\subset B$
+. Denote by $M_0=B_0\times S^1\rightarrow B_0$
+ the trivial $S^1$
+-bundle over $B_0$
+. Write $S^1_1,\ldots , S^1_n$
+ for the boundary circles of $B_0$
+, with the <italic>opposite</italic>
+ of the orientation induced as boundary of $B_0$
+. We write the (isotopy class of) the fibre in $M_0$
+ as $h=\{*\}\times S^1$
+. On the boundary of $M_0$
+ we consider the curves $q_i=S^1_i\times \{1\}$
+, with $1\in S^1\subset {\mathbb {C}}$
+. Let $V_i=D^2\times S^1$
+, $i=1,\ldots ,n$
+, be <italic>n</italic>
+ copies of a solid torus with respective meridian and longitude\begin{aligned} \mu _i=\partial D^2\times \{1\},\;\; \lambda _i=\{1\}\times S^1\subset \partial V_i. \end{aligned}$
+The Seifert invariants $(\alpha _i,\beta _i)$
+ then encode the identifications\begin{aligned} \mu _i=\alpha _i q_i+\beta _i h,\;\;\; \lambda _i=\alpha _i'q_i+\beta _i'h, \end{aligned}$
+where integers $\alpha _i',\beta _i'$
+ are chosen such that\begin{aligned} \begin{vmatrix} \alpha _i&amp;\quad \alpha _i'\\ \beta _i&amp;\quad \beta _i' \end{vmatrix}=1. \end{aligned}$
+The identifications (<xref rid="Equ1" ref-type="disp-formula">1</xref>
+) are equivalent to\begin{aligned} h=-\alpha _i'\mu _i+\alpha _i\lambda _i,\;\;\; q_i=\beta _i'\mu _i-\beta _i\lambda _i. \end{aligned}$
+Writing $C_i$
+ for the spine $\{0\}\times S^1$
+ of the solid torus $V_i$
+, we deduce from (<xref rid="Equ2" ref-type="disp-formula">2</xref>
+) that the fibre <italic>h</italic>
+ is homotopic to $\alpha _iC_i$
+ in $V_i$
+, and the boundary curve $q_i$
+, to $-\beta _iC_i$
+. For $\alpha _i&gt;1$
+, the spine $C_i$
+ is the corresponding singular fibre.</p>
+
+<p id="Par15">The <italic>Euler number</italic>
+ of the Seifert fibration is defined as\begin{aligned} e=-\sum _{i=1}^n\frac{\beta _i}{\alpha _i}. \end{aligned}$
+</p>
+</sec>
+
+
+<sec id="Sec4"><title>Equivalences of Seifert Invariants</title>
+
+<p id="Par16">Up to isomorphism, a Seifert fibration is determined by the Seifert invariants. Different sets of Seifert invariants correspond to isomorphic Seifert fibrations if and only if they are related to each other by the following operations, see [<xref ref-type="bibr" rid="CR10">10</xref>
+, Theorem 1.5]: <list list-type="order"><list-item>
+<p id="Par17">Permute the <italic>n</italic>
+ pairs $(\alpha _i,\beta _i)$
+.</p>
+</list-item>
+<list-item>
+<p id="Par18">Add or delete any pair $(\alpha ,\beta )=(1,0)$
+.</p>
+</list-item>
+<list-item>
+<p id="Par19">Replace each $(\alpha _i,\beta _i)$
+ by $(\alpha _i,\beta _i+k_i\alpha _i)$
+, where $\sum _{i=1}^n k_i=0$
+.</p>
+</list-item>
+</list>
+These operations allow one to write a Seifert manifold in terms of <italic>normalised</italic>
+ Seifert invariants\begin{aligned} M\bigl (g;(1,b),(\alpha _1,\beta _1),\ldots ,(\alpha _n,\beta _n)\bigr ), \end{aligned}$
+where $b\in {\mathbb {Z}}$
+ and $0&lt;\beta _i&lt;\alpha _i$
+. Notice that the Euler number is invariant under these operations. In general, we shall not be using normalised invariants. Occasionally it is convenient to collect all pairs $(\alpha _i,\beta _i)$
+ with $\alpha _i=1$
+ into a single pair (1, <italic>b</italic>
+), so that the remaining pairs actually correspond to singular fibres.</p>
+</sec>
+
+
+<sec id="Sec5"><title>Surgery Description</title>
+
+<p id="Par20">For Seifert manifolds with $g=0$
+, one can easily translate the gluing prescriptions into a surgery diagram, and the equivalences of Seifert invariants then correspond to well-known transformations of surgery diagrams.</p>
+
+<p id="Par21">A surgery description of $S^2\times S^1$
+ is given by a 0-framed unknot $K_0$
+ in the 3-sphere $S^3$
+. Any meridian $m_i$
+ of $K_0$
+ corresponds to an $S^1$
+-fibre of $S^2\times S^1\rightarrow S^2$
+. The curves $q_i$
+ then correspond to a meridian of $m_i$
+, and the fibre <italic>h</italic>
+ defines the Seifert framing of $m_i$
+ in the unsurgered $S^3$
+. So the gluing instruction $\mu _i=\alpha _iq_i+\beta _ih$
+ from (<xref rid="Equ1" ref-type="disp-formula">1</xref>
+) amounts to a surgery with coefficient $\alpha _i/\beta _i$
+ along $m_i$
+. It follows that the surgery diagram for $M(0;(\alpha _1,\beta _1),\ldots ,(\alpha _n,\beta _n))$
+ consists of a 0-framed unknot $K_0$
+ and <italic>n</italic>
+ meridians with surgery framing $\alpha _i/\beta _i$
+, $i=1,\ldots ,n$
+.</p>
+
+<p id="Par22">Equivalence (i) in Sect. <xref rid="Sec4" ref-type="sec">2.2</xref>
+ corresponds to adding or removing an $\infty $
+-framed meridian of $K_0$
+, which defines a trivial surgery. Equivalence (ii) comes from performing Rolfsen twists (cf. [<xref ref-type="bibr" rid="CR17">17</xref>
+, Section 9.H]) on the <italic>n</italic>
+ meridians. Surgery along $m_i$
+ is defined by removing a tubular neighbourhood of $m_i$
+, and then regluing it according to the surgery instruction given by the surgery coefficient. A Rolfsen twist amounts to performing a $k_i$
+-fold Dehn twist, $k_i\in {\mathbb {Z}}$
+, along the ‘neck’ created by removing the tubular neighbourhood of $m_i$
+ before regluing a solid torus. This changes the surgery framing of $K_0$
+ by $k_i$
+, and the surgery coefficient of $m_i$
+ to $\alpha _i/(\beta _i+k_i\alpha _i)$
+, since the Dehn twist adds $k_i$
+ meridians to a parallel of $K_0$
+, and it sends $\alpha _iq_i+\beta _ih$
+ to $\alpha _iq_i+(\beta _i+k_i\alpha _i)h$
+. Observe that these Dehn twists preserve the $S^1$
+-fibration. The condition $\sum _i k_i=0$
+ comes from the requirement that the unknot $K_0$
+ should retain its 0-framing after the <italic>n</italic>
+ Rolfsen twists, so that surgery along $K_0$
+ still realises $S^2\times S^1$
+.</p>
+
+<p id="Par23">For more on surgery descriptions of Seifert manifolds, see [<xref ref-type="bibr" rid="CR19">19</xref>
+].</p>
+</sec>
+
+
+<sec id="Sec6"><title>Besse Flows</title>
+
+<p id="Par24">Flows of non-singular vector fields where all orbits are closed are often referred to as <italic>Besse flows</italic>
+, in particular in Reeb dynamics; see [<xref ref-type="bibr" rid="CR5">5</xref>
+, <xref ref-type="bibr" rid="CR11">11</xref>
+, <xref ref-type="bibr" rid="CR15">15</xref>
+]. In this context, it is worth mentioning that, by a classical result of Epstein [<xref ref-type="bibr" rid="CR2">2</xref>
+], any Besse flow on a 3-manifold defines a Seifert fibration.</p>
+</sec>
+</sec>
+
+
+<sec id="Sec7"><title>Global Surfaces of Section</title>
+<sec>
+<p id="Par25">The orientations of <italic>M</italic>
+ and <italic>B</italic>
+ in the Seifert fibration $M\rightarrow B$
+ induce an orientation on the fibres. Equivalently, we may think of the Seifert fibres as the orbits of an effective, fixed point free $S^1$
+-action. A singular fibre with Seifert invariants $(\alpha ,\beta )$
+, $\alpha &gt;1$
+, consists of points with isotropy group ${\mathbb {Z}}_{\alpha }=\bigl \langle \mathrm {e}^{2\pi \mathrm {i}/\alpha }\bigr \rangle &lt;S^1$
+.</p>
+</sec>
+<sec>
+<p id="Par26">A <bold>global surface of section</bold>
+ is an embedded compact surface $\Sigma \subset M$
+ whose boundary is a collection of Seifert fibres, and whose interior intersects all other Seifert fibres transversely. The interior of $\Sigma $
+ will intersect every regular fibre (except those forming the boundary of $\Sigma $
+) in the same number <italic>d</italic>
+ of points. A singular fibre of multiplicity $\alpha $
+ can also arise as a boundary component, or it will intersect the interior of $\Sigma $
+ in $d/\alpha $
+ points. For short, we speak of a <italic>d</italic>
+-<bold>section</bold>
+.</p>
+</sec>
+
+
+<sec id="FPar1"><title>Note 3.1</title>
+
+<p id="Par27">Given a <italic>d</italic>
+-section $\Sigma $
+, the multiplicity $\alpha $
+ of a singular fibre not in the boundary of $\Sigma $
+ divides <italic>d</italic>
+.</p>
+</sec>
+<sec>
+<p id="Par28">We orient $\Sigma $
+ such that these intersection points are positive. The boundary orientation of a component of $\partial \Sigma $
+ may or may not coincide with the orientation as a Seifert fibre. If the orientations coincide for every component of $\partial \Sigma $
+, we call the <italic>d</italic>
+-section <italic>positive</italic>
+.</p>
+</sec>
+<sec>
+<p id="Par29">See [<xref ref-type="bibr" rid="CR1">1</xref>
+] for a variety of explicit surfaces of section for the Hopf fibration $S^3\rightarrow S^2$
+.</p>
+</sec>
+</sec>
+
+
+<sec id="Sec8"><title>1-Sections for Seifert Fibrations</title>
+<sec>
+<p id="Par30">We begin with a necessary criterion for the existence of a 1-section.</p>
+</sec>
+
+
+<sec id="FPar2"><title>Lemma 4.1</title>
+
+<p id="Par31">If a Seifert manifold admits a 1-section, then every singular fibre is a boundary fibre, and the corresponding pair $(\alpha ,\beta )$
+ satisfies $\beta \equiv \pm 1$
+$\mathrm {mod}~\alpha $
+, depending on whether the singular fibre is a positive or negative boundary component.</p>
+</sec>
+
+
+<sec id="FPar3"><title>Proof</title>
+
+<p id="Par32">The first claim follows from Note <xref rid="FPar1" ref-type="">3.1</xref>
+. For the second statement, we consider a solid torus <italic>V</italic>
+ around the singular fibre <italic>C</italic>
+ as in Sect. <xref rid="Sec2" ref-type="sec">2</xref>
+. Let $\sigma $
+ be the curve $\partial V\cap \Sigma $
+, oriented as a boundary component of $\Sigma {\setminus }{{\,\mathrm{Int}\,}}(V)$
+. The curve $\sigma $
+ must be homotopic in <italic>V</italic>
+ to $\pm C$
+, depending on the sign of the boundary fibre <italic>C</italic>
+.</p>
+
+<p id="Par33">The Seifert fibres lying in $\partial V$
+ represent the fibre class <italic>h</italic>
+. Since these fibres intersect $\Sigma $
+ positively in a single point, the intersection number $\sigma \bullet h$
+ on $\partial V$
+, computed with respect to the oriented basis $(\mu ,\lambda )$
+, equals $-1$
+ (<italic>sic</italic>
+!). Since $q\bullet h=1$
+, this means that $\sigma $
+ can be written as $\sigma =-q+ah$
+ for some $a\in {\mathbb {Z}}$
+, which in <italic>V</italic>
+ is homotopic to $(\beta +a\alpha )C$
+. For this to equal $\pm C$
+, we must have $\beta \equiv \pm 1$
+ mod $\alpha $
+. $\square $
+</p>
+</sec>
+<sec>
+<p id="Par34">This lemma implies that a Seifert manifold admitting a 1-section is of the form $M\bigl (g;(1,b),(\alpha _1,\pm 1),\ldots ,(\alpha _n,\pm 1)\bigr )$
+, where we may assume that the $\alpha _i$
+ are greater than 1. The individual signs determine the topology of the Seifert manifold. For $\alpha _i=2$
+, both signs are possible.</p>
+</sec>
+<sec>
+<p id="Par35">We now show that manifolds of this form <italic>do</italic>
+ admit a 1-section, and we can characterise those admitting a positive one.</p>
+</sec>
+
+
+<sec id="FPar4"><title>Theorem 4.2</title>
+
+<p id="Par36">A Seifert manifold admits a 1-section with <italic>n</italic>
+ singular boundary fibres and $b_{\pm }$
+ positive resp. negative regular boundary fibres if and only if it is isomorphic to $M\bigl (g;(1,b_+ - b_-),(\alpha _1,\pm 1),\ldots ,(\alpha _n,\pm 1)\bigr )$
+. The sign in $(\alpha _i,\pm 1$
+) determines the sign of the corresponding singular boundary fibre. Any two 1-sections on a given Seifert manifold are isotopic, provided they have the same number of positive resp. negative regular boundary fibres.</p>
+</sec>
+
+
+<sec id="FPar5"><title>Example 4.3</title>
+
+<p id="Par37">In [<xref ref-type="bibr" rid="CR1">1</xref>
+, Section 2.5], the reader finds an explicit example of a pair of pants 1-section for the Hopf fibration with two positive and one negative boundary fibres, corresponding to the description of the Hopf fibration as the Seifert manifold $M\bigl (0;(1,1),(1,1),(1,-1)\bigr )$
+.</p>
+</sec>
+
+
+<sec id="FPar6"><title>Proof of Theorem 4.2</title>
+
+<p id="Par38">Given a Seifert manifold of the described form, we construct a 1-section as follows. Remove (open) solid tori around the <italic>n</italic>
+ singular fibres, and a further $b_+ + b_-$
+ solid tori around regular fibres. The remaining part $M_0$
+ of <italic>M</italic>
+ is of the form $B_0\times S^1\rightarrow B_0$
+, and we take the constant section $B_0\times \{1\}$
+ as the part of our desired 1-section over $B_0$
+.</p>
+
+<p id="Par39">For the gluing of a solid torus <italic>V</italic>
+ corresponding to a singular fibre of type $(\alpha ,\pm 1)$
+, we may take $\alpha '=\mp 1$
+ and $\beta '=0$
+. This means we have the identifications\begin{aligned} h=\pm \mu +\alpha \lambda ,\;\;\; q=\mp \lambda . \end{aligned}$
+Therefore, the oriented vertical annulus <italic>A</italic>
+ in <italic>V</italic>
+ with boundary $\partial A=\pm C\mp \lambda =\pm C+q$
+ will intersect each Seifert fibre in $V{\setminus }\{C\}$
+ transversely in a single positive point, and it glues with $B_0$
+ to extend the 1-section. (For the sign of the intersection point, notice that $-q=\pm \lambda $
+ takes the role of $\sigma $
+ in the preceding proof, and $\pm \lambda \bullet h=-1$
+.) Observe that this argument did not require $\alpha &gt;1$
+. Thus, in the same way we may extend the 1-section over $b_{\pm }$
+ solid tori glued according to the prescription $(1,\pm 1)$
+.</p>
+
+<p id="Par40">Conversely, given a 1-section as described, we can use it to trivialise the Seifert fibration outside solid tori around the boundary fibres. Then $a=0$
+ in the notation of the proof of Lemma <xref rid="FPar2" ref-type="">4.1</xref>
+, and $\beta =\pm 1$
+.</p>
+
+<p id="Par41">The uniqueness statement is proved just like [<xref ref-type="bibr" rid="CR1">1</xref>
+, Proposition 3.1]. The only difference is that we now have singular fibres, but if we fix the number of positive resp. negative regular boundary fibres, the signs in $(\alpha _i,\pm 1)$
+ must be the same for any two given sections, even when some of the $\alpha _i$
+ equal 2 (perhaps after reordering). This implies that the two sections can be assumed to coincide near the singular fibres after a preliminary isotopy. $\square $
+</p>
+</sec>
+</sec>
+
+
+<sec id="Sec9"><title><italic>d</italic>
+-Sections for Seifert Fibrations</title>
+
+<p id="Par42">Notice that in Theorem <xref rid="FPar4" ref-type="">4.2</xref>
+ it was not necessary to assume $\alpha _i&gt;1$
+. We continue to work with unnormalised Seifert invariants, although occasionally it may be convenient to collect all pairs $(\alpha _i,\beta _i)$
+ with $\alpha _i=1$
+ into a single term.</p>
+
+
+<sec id="Sec10"><title>A Necessary Criterion</title>
+<sec>
+<p id="Par43">Again we start with a necessary criterion for the existence of a section.</p>
+</sec>
+
+
+<sec id="FPar7"><title>Lemma 5.1</title>
+
+<p id="Par44">Suppose $M\bigl (g;(\alpha _1,\beta _1),\ldots ,(\alpha _n,\beta _n)\bigr )$
+ admits a <italic>d</italic>
+-section. If the singular fibre $C=C_i$
+ with invariants $(\alpha ,\beta )=(\alpha _i,\beta _i)$
+, $\alpha _i&gt;1$
+, is not a boundary fibre, then $\alpha |d$
+. If <italic>C</italic>
+ is a boundary fibre, then $\alpha |(d\beta \mp 1)$
+, where the sign depends on <italic>C</italic>
+ being a positive or negative boundary.</p>
+</sec>
+
+
+<sec id="FPar8"><title>Remark 5.2</title>
+
+<p id="Par45">For $\alpha &gt;1$
+, the two divisibility conditions are mutually exclusive (in the second case, $\alpha $
+ and <italic>d</italic>
+ are coprime), so it is determined a priori—provided a <italic>d</italic>
+-section exists—which singular fibres will be boundary fibres. Also, the sign of the boundary fibres is predetermined, unless $\alpha =2$
+.</p>
+</sec>
+
+
+<sec id="FPar9"><title>Proof of Lemma 5.1</title>
+
+<p id="Par46">For <italic>C</italic>
+ not being a boundary fibre, use Note <xref rid="FPar1" ref-type="">3.1</xref>
+. If <italic>C</italic>
+ is a boundary fibre, we argue as in the proof of Lemma <xref rid="FPar2" ref-type="">4.1</xref>
+, except that now we have $\sigma \bullet h=-d$
+. This implies that $\sigma =-dq+ah$
+ for some $a\in {\mathbb {Z}}$
+, which is homotopic in <italic>V</italic>
+ to $(d\beta +a\alpha )C$
+, whence $d\beta +a\alpha =\pm 1$
+. $\square $
+</p>
+</sec>
+</sec>
+
+
+<sec id="Sec11"><title>The ${\mathbb {Z}}_d$
+-Quotient</title>
+<sec>
+<p id="Par47">If we think of a Seifert fibration as a manifold <italic>M</italic>
+ with an effective, fixed point free $S^1$
+-action, the subgroup ${\mathbb {Z}}_d=\bigl \langle \mathrm {e}^{2\pi \mathrm {i}/d}\bigr \rangle &lt;S^1$
+ also acts on <italic>M</italic>
+, and the quotient $M/{\mathbb {Z}}_d$
+ is again Seifert fibred. The regular fibres of <italic>M</italic>
+ have length $2\pi $
+, a singular fibre of multiplicity $\alpha $
+ has length $2\pi /\alpha $
+. In the quotient $M/{\mathbb {Z}}_d$
+, the regular fibres have length $2\pi /d$
+, and a singular fibre of multiplicity $\alpha $
+ in <italic>M</italic>
+ descends to a singular fibre of length $2\pi \gcd (\alpha ,d)/\alpha d$
+, so its multiplicity is $\alpha /\gcd (\alpha ,d)$
+.</p>
+</sec>
+<sec>
+<p id="Par48">The Seifert invariants of $M/{\mathbb {Z}}_d$
+ can be computed from a section of $M\rightarrow B$
+ over $B_0\subset B$
+ (in the notation of Sect. <xref rid="Sec2" ref-type="sec">2</xref>
+), since this descends to just such a section of $M/{\mathbb {Z}}_d\rightarrow B$
+, see [<xref ref-type="bibr" rid="CR10">10</xref>
+, Proposition 2.5].</p>
+</sec>
+
+
+<sec id="FPar10"><title>Proposition 5.3</title>
+
+<p id="Par49">The ${\mathbb {Z}}_d$
+-quotient $\overline{M}=M/{\mathbb {Z}}_d$
+ of\begin{aligned} M=M\bigl (g;(\alpha _1,\beta _1),\ldots ,(\alpha _n,\beta _n)\bigr ) \end{aligned}$
+is the Seifert manifold\begin{aligned} \overline{M}=M\bigl (g;(\overline{\alpha }_1,\overline{\beta }_1),\ldots ,(\overline{\alpha }_n,\overline{\beta }_n) \bigr ), \end{aligned}$
+where $\overline{\alpha }_i=\alpha _i/\gcd (\alpha _i,d)$
+ and $\overline{\beta }_i=d\beta _i/\gcd (\alpha _i,d)$
+. In particular, the Euler numbers are related by $e(\overline{M}\rightarrow B)=d\cdot e(M\rightarrow B)$
+. $\square $
+</p>
+</sec>
+<sec>
+<p id="Par50">The quotient map $M\rightarrow \overline{M}$
+ is a branched covering, branched transversely to any singular fibre with $\gcd (\alpha _i,d)&gt;1$
+, where the branching index is precisely this greatest common divisor.</p>
+</sec>
+</sec>
+
+
+<sec id="Sec12"><title><italic>d</italic>
+-Sections Descend to the ${\mathbb {Z}}_d$
+-Quotient</title>
+
+<p id="Par51">We now assume that <italic>M</italic>
+ admits a <italic>d</italic>
+-section, so that the conclusion of Lemma <xref rid="FPar7" ref-type="">5.1</xref>
+ holds. We permute the Seifert invariants such that (for the appropriate $k\in \{0,\ldots ,n\}$
+)\begin{aligned} {\left\{ \begin{array}{ll} \alpha _i|(d\beta _i\mp 1)\;\text {and}\;\alpha _i\not \mid d &amp;{}\quad \hbox {for}\ i=1,\ldots ,k,\\ \alpha _i|d &amp;{}\quad \text {for }i=k+1,\ldots ,n. \end{array}\right. } \end{aligned}$
+The assumption $\alpha _i\not \mid d$
+ in the first case of (<xref rid="Equ3" ref-type="disp-formula">3</xref>
+) is not, strictly speaking, necessary. It avoids the ambiguity where to place the $\alpha _i$
+ that equal 1, but the formulas we shall derive also hold when we count some of the $\alpha _i=1$
+ amongst the first alternative. For $i=1,\ldots , k$
+, we write $d\beta _i=a_i\alpha _i+\varepsilon _i$
+ with $a_i\in {\mathbb {Z}}$
+ and $\varepsilon _i\in \{\pm 1\}$
+. Then\begin{aligned} \overline{M}=M\bigl (g;(1,\overline{b}),(\alpha _1,\varepsilon _1),\ldots , (\alpha _k,\varepsilon _k)\bigr ) \end{aligned}$
+with\begin{aligned} \overline{b}=\sum _{i=1}^k a_i+\sum _{i=k+1}^n \frac{d\beta _i}{\alpha _i}. \end{aligned}$
+For $\alpha _i=2$
+ and <italic>d</italic>
+ odd, or for $\alpha _i=1$
+ counted amongst the first alternative, there is an ambiguity in the choice of $\varepsilon _i$
+ (and the corresponding $a_i$
+), but this does not invalidate any of our statements.</p>
+
+<p id="Par52">With Theorem <xref rid="FPar4" ref-type="">4.2</xref>
+ we see that $\overline{M}$
+ always admits a 1-section, and a positive one precisely when $\overline{b}\ge 0$
+ and $\varepsilon _i=1$
+ for $i=1,\ldots ,k$
+. The Euler number $\overline{e}$
+ of $\overline{M}\rightarrow B$
+ equals\begin{aligned} \overline{e}=-\overline{b}-\sum _{i=1}^k\varepsilon _i/\alpha _i, \end{aligned}$
+so the condition for $\overline{M}$
+ to admit a positive 1-section can be rephrased as: all $\varepsilon _i$
+ equal 1 and $\overline{e}\le -\sum _{i=1}^k1/\alpha _i$
+.</p>
+
+<p id="Par53">In fact, by the same topological arguments as in [<xref ref-type="bibr" rid="CR1">1</xref>
+, Proposition 3.2] one can show that any <italic>d</italic>
+-section of <italic>M</italic>
+ can be isotoped to one that is invariant under the ${\mathbb {Z}}_d$
+-action, and it then descends to a 1-section of $\overline{M}$
+. Conversely, any 1-section of $\overline{M}$
+ lifts to a ${\mathbb {Z}}_d$
+-invariant <italic>d</italic>
+-section of <italic>M</italic>
+. Also, a <italic>d</italic>
+-section of <italic>M</italic>
+, if it exists, is determined up to isotopy by its boundary orientations. For simplicity, we shall restrict the discussion of the topology of these <italic>d</italic>
+-sections to positive ones.</p>
+</sec>
+
+
+<sec id="Sec13"><title>The Local Behaviour Near Singular Fibres</title>
+
+<p id="Par54">To gain a better understanding of <italic>d</italic>
+-sections, we briefly describe their behaviour near singular fibres. We write $(\alpha ,\beta )$
+ for the invariants of the fibre <italic>C</italic>
+ in question.</p>
+
+<p id="Par55">If $\alpha |(d\beta \pm 1)$
+ and $\alpha \not \mid d$
+, then <italic>C</italic>
+ is a boundary component of the <italic>d</italic>
+-section. Near <italic>C</italic>
+, the <italic>d</italic>
+-section looks like a helicoidal surface, where the number of turns around <italic>C</italic>
+ is controlled by the condition that any neighbouring regular fibre cuts the surface in <italic>d</italic>
+ (positive) points.</p>
+
+<p id="Par56">If $\alpha |d$
+, then the <italic>d</italic>
+-section near <italic>C</italic>
+ consists of $d/\alpha $
+ transverse discs to <italic>C</italic>
+.</p>
+
+<p id="Par57">The quotient map $M\rightarrow \overline{M}$
+ restricts on any ${\mathbb {Z}}_d$
+-invariant <italic>d</italic>
+-section $\Sigma $
+ of <italic>M</italic>
+ to a branched covering $\Sigma \rightarrow \overline{\Sigma }$
+, with $\overline{\Sigma }$
+ a 1-section of $\overline{M}$
+. Each singular fibre with $\alpha _i|d$
+ gives rise to $d/\alpha _i$
+ branch points of index $\alpha _i$
+ over a single point in the interior of $\overline{\Sigma }$
+. Along the boundary components, regular or singular, the covering $\Sigma \rightarrow \overline{\Sigma }$
+ is unbranched.</p>
+</sec>
+
+
+<sec id="Sec14"><title>The Topology of Positive <italic>d</italic>
+-Sections</title>
+<sec>
+<p id="Par58">Here is our main theorem concerning positive <italic>d</italic>
+-sections.</p>
+</sec>
+
+
+<sec id="FPar11"><title>Theorem 5.4</title>
+
+<p id="Par59">The Seifert manifold $M=M\bigl (g;(\alpha _1,\beta _1),\ldots , (\alpha _n,\beta _n)\bigr )$
+ admits a positive <italic>d</italic>
+-section if and only if, for some $k\in \{0,\ldots ,n\}$
+ (and after permuting the Seifert invariants), condition (<xref rid="Equ3" ref-type="disp-formula">3</xref>
+) is satisfied with the sign $\alpha _i|(d\beta _i-1)$
+ in the first alternative, and the Euler number <italic>e</italic>
+ satisfies\begin{aligned} de+\sum _{\alpha _i\not \mid d}\frac{1}{\alpha _i}\le 0. \end{aligned}$
+This positive <italic>d</italic>
+-section, if it exists, is unique up to isotopy. Unless $\alpha _i|d$
+ for all <italic>i</italic>
+ and $e=0$
+, it is a connected, orientable surface of genus\begin{aligned} \frac{1}{2}\left( 2- d\left( 2-2g+(d-1)e+\sum _{i=1}^n\frac{1}{\alpha _i}-n\right) -\sum _{\alpha _i\not \mid d}\left( 1-\frac{1}{\alpha _i}\right) \right) \end{aligned}$
+with\begin{aligned} -de+\sum _{\alpha _i\not \mid d}\left( 1-\frac{1}{\alpha _i}\right) \end{aligned}$
+boundary components.</p>
+</sec>
+
+
+<sec id="FPar12"><title>Proof</title>
+
+<p id="Par60">The left-hand side of inequality (<xref rid="Equ4" ref-type="disp-formula">4</xref>
+) equals the integer $-\overline{b}$
+, so the inequality is simply the reformulation of the condition $\overline{b}\ge 0$
+. The sign condition on the first alternative of (<xref rid="Equ3" ref-type="disp-formula">3</xref>
+) is equivalent to requiring $\varepsilon _1=\cdots =\varepsilon _k=1$
+.</p>
+
+<p id="Par61">The number of boundary components of the positive <italic>d</italic>
+-section $\Sigma $
+ equals that of the 1-section $\overline{\Sigma }$
+ of $\overline{M}$
+, which by Theorem <xref rid="FPar4" ref-type="">4.2</xref>
+ is\begin{aligned} \overline{b}+k=-de+\sum _{\alpha _i\not \mid d}\left( 1-\frac{1}{\alpha _i}\right) . \end{aligned}$
+If $\Sigma $
+ has empty boundary, which happens when $e=0$
+ and $\alpha _i|d$
+ for all $i=1,\ldots ,n$
+, it may be disconnected, depending on the branching of the map $\Sigma \rightarrow \overline{\Sigma }$
+; an obvious case is a trivial $S^1$
+-bundle $M=B\times S^1\rightarrow B$
+. When the boundary is non-empty, $\Sigma $
+ is connected by the argument in the proof of [<xref ref-type="bibr" rid="CR1">1</xref>
+, Theorem 4.1]. For the remainder of the proof, we assume this latter case.</p>
+
+<p id="Par62">Write ${\hat{\Sigma }}$
+ for the closed surface obtained by gluing $\overline{b}+k$
+ copies of $D^2$
+ to the <italic>d</italic>
+-section $\Sigma $
+ of <italic>M</italic>
+ along its boundary components, and ${\hat{\overline{\Sigma }}}$
+ for the closed surface obtained in the same way from the 1-section $\overline{\Sigma }$
+ of $\overline{M}$
+. This gluing is done abstractly, that is, the surfaces ${\hat{\Sigma }}$
+ and ${\hat{\overline{\Sigma }}}$
+ are no longer embedded surfaces in <italic>M</italic>
+ or $\overline{M}$
+, respectively. The Euler characteristic of ${\hat{\overline{\Sigma }}}$
+ equals $2-2g$
+, since the interior of the 1-section is a copy of the base <italic>B</italic>
+ with $\overline{b}+k$
+ points removed.</p>
+
+<p id="Par63">The surface ${\hat{\Sigma }}$
+ is a branched cover of ${\hat{\overline{\Sigma }}}$
+ as follows. Each of the discs glued to one of the $\overline{b}+k$
+ boundary components gives rise to a single branch point in ${\hat{\Sigma }}$
+ of index <italic>d</italic>
+, since both a regular fibre in <italic>M</italic>
+ as well as a singular fibre with $\alpha _i$
+ coprime to <italic>d</italic>
+ is a <italic>d</italic>
+-fold cover of the corresponding fibre in $\overline{M}$
+.</p>
+
+<p id="Par64">Each singular fibre of <italic>M</italic>
+ with $\alpha _i|d$
+ gives rise to a point in ${\hat{\overline{\Sigma }}}$
+ covered by $d/\alpha _i$
+ points of branching index $\alpha _i$
+. This statement about covering points and indices remains true for $\alpha _i=1$
+.</p>
+
+<p id="Par65">Thus, the Riemann–Hurwitz formula for the branched covering ${\hat{\Sigma }}\rightarrow {\hat{\overline{\Sigma }}}$
+ gives\begin{aligned} \chi ({\hat{\Sigma }})=d\bigl (2-2g-(\overline{b}+k)-(n-k)\bigr )+(\overline{b}+k)+ \sum _{i=k+1}^n\frac{d}{\alpha _i}. \end{aligned}$
+The formula for the genus $(2-\chi ({\hat{\Sigma }}))/2$
+ of the <italic>d</italic>
+-section follows with some simple arithmetic. Notice that the formula is invariant under adding or removing pairs (1, 0) from the Seifert invariants. $\square $
+</p>
+</sec>
+</sec>
+
+
+<sec id="Sec15"><title>Examples</title>
+
+<p id="Par66">Here are some elementary applications of Theorem <xref rid="FPar11" ref-type="">5.4</xref>
+.</p>
+
+
+<sec id="Sec16"><title>The Hopf Flow on $S^3$
+</title>
+<sec>
+<p id="Par67">The Hopf fibration $S^3\rightarrow S^2$
+ has the description $M\bigl (0;(1,1)\bigr )$
+ as a Seifert manifold, with $e=-1$
+, see [<xref ref-type="bibr" rid="CR1">1</xref>
+, Section 2.4]. The following is [<xref ref-type="bibr" rid="CR1">1</xref>
+, Theorem 4.1].</p>
+</sec>
+
+
+<sec id="FPar13"><title>Example 5.5</title>
+
+<p id="Par68">For any natural number <italic>d</italic>
+, the Hopf fibration admits a unique positive <italic>d</italic>
+-section, which has genus $(d-1)(d-2)/2$
+ and <italic>d</italic>
+ boundary components.</p>
+</sec>
+</sec>
+
+
+<sec id="Sec17"><title>Seifert Fibrations of $S^3$
+</title>
+<sec>
+<p id="Par69">According to [<xref ref-type="bibr" rid="CR3">3</xref>
+, Proposition 5.2], a complete list of the Seifert fibrations of $S^3$
+ is provided by\begin{aligned} M\bigl (0;(\alpha _1,\beta _1),(\alpha _2,\beta _2)\bigr ), \end{aligned}$
+where $\alpha _1\beta _2+\alpha _2\beta _1=1$
+ (in particular, $\alpha _1$
+ and $\alpha _2$
+ are coprime). To avoid duplications in this list, one may assume $\alpha _1\ge \alpha _2$
+ and $0\le \beta _1&lt;\alpha _1$
+. For our purposes, this is not relevant, and so we shall not insist on this choice since we prefer to retain the symmetry in $\alpha _1$
+ and $\alpha _2$
+.</p>
+</sec>
+<sec>
+<p id="Par70">The corresponding $S^1$
+-action on $S^3\subset {\mathbb {C}}^2$
+ is given by <fig id="Figa" position="anchor"><p><graphic position="anchor" specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/40598_2021_184_Figa_HTML.png" id="MO22"/></p>
+</fig>
+ Notice the choice of indices. The fibre $C_1=\{z_2=0\}\cap S^3$
+ through the point (1, 0) has multiplicity $\alpha _2$
+, the fibre $C_2=\{z_1=0\}\cap S^3$
+ through (0, 1), multiplicity $\alpha _1$
+. The Euler number of this fibration is\begin{aligned} e=-\frac{\beta _1}{\alpha _1}-\frac{\beta _2}{\alpha _2}= -\frac{1}{\alpha _1\alpha _2}. \end{aligned}$
+The Hopf fibration corresponds to the choice $\alpha _1=\alpha _2=1$
+.</p>
+</sec>
+<sec>
+<p id="Par71">We shall discuss these Seifert fibrations in more detail in Sect. <xref rid="Sec22" ref-type="sec">7</xref>
+. The following example answers a question posed to us by Christian Lange.</p>
+</sec>
+
+
+<sec id="FPar14"><title>Example 5.6</title>
+
+<p id="Par72">The Seifert fibration $M\bigl (0;(\alpha _1,\beta _1),(\alpha _2,\beta _2)\bigr )$
+ of $S^3$
+ admits a positive $\alpha _1\alpha _2$
+-section, with boundary a single regular fibre, of genus $(\alpha _1-1)(\alpha _2-1)/2$
+.</p>
+</sec>
+<sec>
+<p id="Par73">Here is one way how to describe this $\alpha _1\alpha _2$
+-section explicitly. A more systematic treatment, using algebraic curves in weighted projective spaces, will be given in Sects. <xref rid="Sec22" ref-type="sec">7</xref>
+ and <xref rid="Sec29" ref-type="sec">8</xref>
+ . We replace the round 3-sphere $S^3\subset {\mathbb {C}}^2$
+ by its diffeomorphic copy\begin{aligned} S^3_{\alpha _1,\alpha _2}:= \bigl \{(z_1,z_2)\in {\mathbb {C}}^2:\,|z_1|^{2\alpha _1}+|z_2|^{2\alpha _2}=1\bigr \}, \end{aligned}$
+The $S^1$
+-action is as in ($A_{2,1}$
+), and we write $C_1^{\alpha _1,\alpha _2}$
+, $C_2^{\alpha _1,\alpha _2}$
+ for the fibres through the points (1, 0) and (0, 1), respectively. Now consider the map\begin{aligned} \begin{array}{rccc} \rho _{\alpha _1,\alpha _2}:\,&amp;{} S^3_{\alpha _1,\alpha _2} &amp;{} \longrightarrow &amp;{} S^3\\ &amp;{} (z_1,z_2) &amp;{} \longmapsto &amp;{} (z_1^{\alpha _1},z_2^{\alpha _2}). \end{array} \end{aligned}$
+We have\begin{aligned} \rho _{\alpha _1,\alpha _2}\bigl (\mathrm {e}^{\mathrm {i}\alpha _2\theta }z_1, \mathrm {e}^{\mathrm {i}\alpha _1\theta }z_2\bigr )=\bigl (\mathrm {e}^{\mathrm {i}\alpha _1\alpha _2\theta } z_1^{\alpha _1},\mathrm {e}^{\mathrm {i}\alpha _1\alpha _2\theta }z_2^{\alpha _2}\bigr ), \end{aligned}$
+so each $S^1$
+-orbit on $S^3_{\alpha _1,\alpha _2}$
+ maps $\alpha _1\alpha _2:1$
+ to a Hopf orbit on $S^3$
+, except for the two exceptional orbits $C_i^{\alpha _1,\alpha _2}$
+, which are $\alpha _i$
+-fold coverings of the Hopf orbits $C_i$
+, $i=1,2$
+. So $\rho _{\alpha _1,\alpha _2}$
+ is a covering branched along (and transverse to) $C_1^{\alpha _1,\alpha _2}$
+, $C_2^{\alpha _1,\alpha _2}$
+ with branching index $\alpha _2,\alpha _1$
+, respectively.</p>
+</sec>
+
+
+<sec id="FPar15"><title>Note 5.7</title>
+
+<p id="Par74">Points with the same image under $\rho _{\alpha _1,\alpha _2}$
+ do indeed come from the same $S^1$
+-orbit on $S^3_{\alpha _1,\alpha _2}$
+. For instance, the point $\bigl (\mathrm {e}^{2\pi \mathrm {i}/\alpha _1}z_1,z_2\bigr )$
+ lies on the same orbit as $(z_1,z_2)$
+, since there is a $k\in {\mathbb {Z}}$
+ with $k\alpha _2\equiv 1$
+ mod $\alpha _1$
+, and then with $\theta :=2\pi k/\alpha _1$
+ we have $\theta (z_1,z_2)= \bigl (\mathrm {e}^{2\pi \mathrm {i}/\alpha _1}z_1,z_2\bigr )$
+.</p>
+</sec>
+<sec>
+<p id="Par75">It follows that the quotient map $\pi _{2,1}:\,S^3_{\alpha _1,\alpha _2} \rightarrow S^3_{\alpha _1,\alpha _2}/S^1={\mathbb {C}}\mathrm {P}^1$
+ is given by\begin{aligned} \pi _{2,1}(z_1,z_2)=[z_1^{\alpha _1}:z_2^{\alpha _2}]\in {\mathbb {C}}\mathrm {P}^1=S^2. \end{aligned}$
+Observe that the preimage of a point $[w_1:w_2]\in {\mathbb {C}}\mathrm {P}^1$
+, where we may assume that $|w_1|^2+|w_2|^2=1$
+, consists of the points $\bigl (\lambda _1(w_1)^{1/\alpha _1}, \lambda _2(w_2)^{1/\alpha _2}\bigr )\in S^3_{\alpha _1,\alpha _2}$
+ for some fixed choice of roots and $\lambda _1,\lambda _2\in S^1\subset {\mathbb {C}}$
+ with $\lambda _1^{\alpha _1}=\lambda _2^{\alpha _2}$
+, which means we can write $\lambda _1=\mathrm {e}^{\mathrm {i}\alpha _2\theta }$
+ and $\lambda _2= \mathrm {e}^{\mathrm {i}\alpha _1\theta }$
+ for a suitable $\theta \in {\mathbb {R}}/2\pi {\mathbb {Z}}$
+.</p>
+</sec>
+<sec>
+<p id="Par76">The element $\mathrm {e}^{2\pi \mathrm {i}/\alpha _1\alpha _2}\in S^1$
+ defines a ${\mathbb {Z}}_{\alpha _1\alpha _2}$
+-action on $S^3_{\alpha _1,\alpha _2}$
+. In other words, this is the action generated by\begin{aligned} (z_1,z_2)\longmapsto \bigl (\mathrm {e}^{2\pi \mathrm {i}/\alpha _1}z_1, \mathrm {e}^{2\pi \mathrm {i}/\alpha _2}z_2\bigr ). \end{aligned}$
+By the Chinese remainder theorem, for $k\in \{0,1,\ldots , \alpha _1\alpha _2-1\}$
+, we obtain the $\alpha _1\alpha _2$
+ independent choices of roots of unity $\bigl (\mathrm {e}^{2\pi \mathrm {i}k/\alpha _1},\mathrm {e}^{2\pi \mathrm {i}k/\alpha _2}\bigr )$
+, so the map $\rho _{\alpha _1,\alpha _2}$
+ is in fact the quotient map under this ${\mathbb {Z}}_{\alpha _1\alpha _2}$
+-action.</p>
+</sec>
+<sec>
+<p id="Par77">Summing up, we have the following commutative diagram: <fig id="Figb" position="anchor"><p><graphic position="anchor" specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/40598_2021_184_Figb_HTML.png" id="MO29"/></p>
+</fig>
+</p>
+</sec>
+
+
+<sec id="FPar16"><title>Remark 5.8</title>
+
+<p id="Par78">The quotient $S^3_{\alpha _1,\alpha _2}/{\mathbb {Z}}_{\alpha _1\alpha _2}$
+ can also be recognised as $S^3$
+ with the Hopf fibration by computing its Seifert invariants. By Proposition <xref rid="FPar10" ref-type="">5.3</xref>
+ we have\begin{aligned} S^3_{\alpha _1,\alpha _2}/{\mathbb {Z}}_{\alpha _1\alpha _2}= &amp; {} M\bigl (0;(1,\alpha _2\beta _1),(1,\alpha _1\beta _2)\bigr )\\= &amp; {} M\bigl (0;(1,0),(1,\alpha _1\beta _2+\alpha _2\beta _1)\bigr )\\= &amp; {} M\bigl (0;(1,0),(1,1)\bigr ), \end{aligned}$
+which describes the diagonal action of $S^1$
+ on $S^3\subset {\mathbb {C}}^2$
+.</p>
+</sec>
+<sec>
+<p id="Par79">For the Hopf fibration, it is easy to write down a disc-like 1-section, where the boundary fibre sits over the point $[1:1]\in {\mathbb {C}}\mathrm {P}^1$
+. Lifting this to $S^3_{\alpha _1,\alpha _2}$
+, one finds an $\alpha _1\alpha _2$
+-section as the image of the $\alpha _1\alpha _2$
+-valued map\begin{aligned} {\mathbb {C}}\ni z\longmapsto \left( \left( \frac{z-1}{\sqrt{|z-1|^2+|z|^2}}\right) ^{1/\alpha _1}, \left( \frac{z}{\sqrt{|z-1|^2+|z|^2}}\right) ^{1/\alpha _2}\right) \in S^3_{\alpha _1,\alpha _2}. \end{aligned}$
+As $z\rightarrow \infty $
+, this becomes asymptotic to the (regular) fibre over $[1:1]\in {\mathbb {C}}\mathrm {P}^1$
+. For $z=0$
+ the map is $\alpha _1$
+-valued. This corresponds to the $\alpha _1$
+ points over [1 : 0] of branching index $\alpha _2$
+. Similarly, the point $z=1$
+ maps to the $\alpha _2$
+ branch points of index $\alpha _1$
+.</p>
+</sec>
+</sec>
+
+
+<sec id="Sec18"><title>Existence of <italic>d</italic>
+-Sections</title>
+<sec>
+<p id="Par80">As a corollary of Theorem <xref rid="FPar11" ref-type="">5.4</xref>
+ and the discussion in Sect. <xref rid="Sec12" ref-type="sec">5.3</xref>
+, we mention the following existence statement, which is in response to a question by Umberto Hryniewicz.</p>
+</sec>
+
+
+<sec id="FPar17"><title>Corollary 5.9</title>
+
+<p id="Par81">Every Seifert manifold admits a <italic>d</italic>
+-section for a suitable positive integer <italic>d</italic>
+. It admits a positive <italic>d</italic>
+-section if and only if its Euler number is non-positive.</p>
+</sec>
+
+
+<sec id="FPar18"><title>Proof</title>
+
+<p id="Par82">For the Seifert manifold $M=M\bigl (g;(\alpha _1,\beta _1),\ldots , (\alpha _n,\beta _n)\bigr )$
+ we may choose <italic>d</italic>
+ as a common multiple of the $\alpha _i$
+. Then the ${\mathbb {Z}}_d$
+-quotient is of the form $M\bigl (g;(1,\overline{b})\bigr )$
+. This admits a 1-section, which can be lifted to a <italic>d</italic>
+-section of <italic>M</italic>
+.</p>
+
+<p id="Par83">For this choice of <italic>d</italic>
+, condition (<xref rid="Equ4" ref-type="disp-formula">4</xref>
+) will be satisfied if and only if $e\le 0$
+. If <italic>e</italic>
+ is positive, (<xref rid="Equ4" ref-type="disp-formula">4</xref>
+) will not be satisfied for any choice of <italic>d</italic>
+. $\square $
+</p>
+</sec>
+
+
+<sec id="FPar19"><title>Remark 5.10</title>
+
+<p id="Par84">Changing the orientation of <italic>M</italic>
+ amounts to changing the sign of the Euler number. So a Seifert manifold always admits a positive <italic>d</italic>
+-section for at least one of the two orientations. If $e\ne 0$
+, the Seifert fibration can be realised as a Besse Reeb flow [<xref ref-type="bibr" rid="CR11">11</xref>
+].</p>
+</sec>
+</sec>
+</sec>
+</sec>
+
+
+<sec id="Sec19"><title>Weighted Projective Planes</title>
+
+<p id="Par85">In this section, we recall the bare essentials of weighted projective planes that we shall need to give explicit realisations of surfaces of section for the Seifert fibrations of $S^3$
+. For more details, see [<xref ref-type="bibr" rid="CR6">6</xref>
+].</p>
+
+
+<sec id="Sec20"><title>The Definition of Weighted Projective Planes</title>
+
+<p id="Par86">Let $a_0,a_1,a_2\in {\mathbb {N}}$
+ be a triple of pairwise coprime positive integers. The quotient of ${\mathbb {C}}^3{\setminus }\{(0,0,0)\}$
+ under the ${\mathbb {C}}^*$
+-action given by\begin{aligned} \lambda (z_0,z_1,z_2)=(\lambda ^{a_0}z_0,\lambda ^{a_1}z_1,\lambda ^{a_2}z_2) \end{aligned}$
+is called the (well-formed) <bold>weighted complex projective plane</bold>
+${\mathbb {P}}(a_0,a_1,a_2)$
+ with <bold>weights</bold>
+$a_0,a_1,a_2$
+. The equivalence class of a point $(z_0,z_1,z_2)$
+ is written as $[z_0:z_1:z_2]_{{\mathbf {a}}}$
+, where ${\mathbf {a}}=(a_0,a_1,a_2)$
+.</p>
+
+<p id="Par87">The space ${\mathbb {P}}(a_0,a_1,a_2)$
+ is a complex manifold of complex dimension 2, except for three cyclic singularities at the points $[1:0:0]_{{\mathbf {a}}}$
+, $[0:1:0]_{{\mathbf {a}}}$
+ and $[0:0:1]_{{\mathbf {a}}}$
+. Indeed, the subset\begin{aligned} U_0:=\bigl \{[z_0:z_1:z_2]_{{\mathbf {a}}}:\,z_0\ne 0\bigr \} \end{aligned}$
+can be identified with the quotient ${\mathbb {C}}^2/{\mathbb {Z}}_{a_0}$
+ under the action of the cyclic group ${\mathbb {Z}}_{a_0}&lt; S^1\subset {\mathbb {C}}$
+ given by\begin{aligned} \zeta (w_1,w_2)=(\zeta ^{a_1}w_1,\zeta ^{a_2}w_2),\;\;\;\zeta \in {\mathbb {Z}}_{a_0}. \end{aligned}$
+If we write $[w_1,w_2]_{a_0}$
+ for the equivalence class of $(w_1,w_2)$
+ in this cyclic quotient, the claimed identification is given by\begin{aligned} \begin{array}{rcl} U_0 &amp;{} \longrightarrow &amp;{} {\mathbb {C}}^2/{\mathbb {Z}}_{a_0}\\ {[z_0:z_1:z_2]}_{{\mathbf {a}}} &amp;{} \longmapsto &amp;{} [z_0^{-a_1/a_0}z_1, z_0^{-a_2/a_0}z_2]_{a_0}. \end{array} \end{aligned}$
+The ambiguity in the choice of a root of order $a_0$
+ is accounted for by the equivalence relation on the right. This map is well defined, with inverse\begin{aligned} {[}w_1,w_2]_{a_0}\longmapsto [1:w_1:w_2]_{{\mathbf {a}}}. \end{aligned}$
+There are analogous descriptions for the subsets $U_i=\{z_i\ne 0\} \subset {\mathbb {P}}(a_0,a_1,a_2)$
+ for $i=1,2$
+.</p>
+</sec>
+
+
+<sec id="Sec21"><title>Algebraic Curves in Weighted Projective Planes</title>
+<sec>
+<p id="Par88">A complex polynomial <italic>F</italic>
+ in the variables $z_0,z_1,z_2$
+ is called a <bold>degree</bold>
+-<italic>d</italic>
+<bold>weighted-homogeneous polynomial</bold>
+ (with a choice of $a_0,a_1,a_2$
+ understood) if\begin{aligned} F(\lambda ^{a_0}z_0,\lambda ^{a_1}z_1,\lambda ^{a_2}z_2)=\lambda ^d F(z_0,z_1,z_2) \end{aligned}$
+for some $d\in {\mathbb {N}}$
+ and all $(z_0,z_1,z_2)\in {\mathbb {C}}^3$
+ and $\lambda \in {\mathbb {C}}^*$
+. Then the zero set $\{F=0\}$
+ is a well-defined subset of ${\mathbb {P}}(a_0,a_1,a_2)$
+.</p>
+</sec>
+<sec>
+<p id="Par89">The polynomial <italic>F</italic>
+ is called <bold>non-singular</bold>
+ if there are <italic>no</italic>
+ solutions to the system of equations\begin{aligned} F=\frac{\partial F}{\partial z_0}=\frac{\partial F}{\partial z_1}= \frac{\partial F}{\partial z_2}=0 \end{aligned}$
+in ${\mathbb {C}}^3{\setminus }\{(0,0,0)\}$
+.</p>
+</sec>
+
+
+<sec id="FPar20"><title>Proposition 6.1</title>
+
+<p id="Par90">If <italic>F</italic>
+ is non-singular, then $\{F=0\}\subset {\mathbb {P}}(a_0,a_1,a_2)$
+ is a smooth Riemann surface.</p>
+</sec>
+
+
+<sec id="FPar21"><title>Proof</title>
+
+<p id="Par91">The proof is completely analogous to the usual proof for algebraic curves in ${\mathbb {C}}\mathrm {P}^2={\mathbb {P}}(1,1,1)$
+, which can be found in [<xref ref-type="bibr" rid="CR13">13</xref>
+], for instance. The only additional issue is to deal with curves that pass through one of the (at most) three singular points of ${\mathbb {P}}(a_0,a_1,a_2)$
+. However, this does not pose a problem, since these singularities are cyclic. A holomorphic chart around $0\in {\mathbb {C}}/{\mathbb {Z}}_{a_i}$
+ is given by $z\mapsto z^{a_i}$
+, so on the complex curve $\{F=0\}$
+ these points are non-singular. $\square $
+</p>
+</sec>
+</sec>
+</sec>
+
+
+<sec id="Sec22"><title>Seifert Fibrations of the 3-Sphere</title>
+
+<p id="Par92">We now give a systematic and comprehensive description of the positive <italic>d</italic>
+-sections for all Seifert fibrations of $S^3$
+. Weighted projective lines appear naturally as the base of these fibrations. We first give a description of global surfaces of section using the topological arguments from Sect. <xref rid="Sec9" ref-type="sec">5</xref>
+. A description in terms of algebraic curves in weighted projective planes will follow in Sect. <xref rid="Sec29" ref-type="sec">8</xref>
+.</p>
+
+
+<sec id="Sec23"><title>An Alternative Relation with the Hopf Fibration</title>
+<sec>
+<p id="Par93">As we shall see presently, it is convenient to replace the $S^1$
+-action ($A_{2,1}$
+) by <fig id="Figc" position="anchor"><p><graphic position="anchor" specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/40598_2021_184_Figc_HTML.png" id="MO40"/></p>
+</fig>
+ As before, $\alpha _1$
+, $\alpha _2$
+ may be any pair of coprime natural numbers, and the $S^1$
+-actions ($A_{1,2}$
+) constitute a complete list of the Seifert fibrations of the 3-sphere. In contrast with Sect. <xref rid="Sec17" ref-type="sec">5.6.2</xref>
+, we now regard these as actions on the round $S^3$
+.</p>
+</sec>
+<sec>
+<p id="Par94">Nonetheless, the spheres $S^3_{\alpha _1,\alpha _2}$
+ again have to play their part, and as before we consider the map $\rho _{\alpha _1,\alpha _2}$
+ defined in (<xref rid="Equ5" ref-type="disp-formula">5</xref>
+). We now compute\begin{aligned} \rho _{\alpha _1,\alpha _2}\bigl (\mathrm {e}^{\mathrm {i}\theta }z_1, \mathrm {e}^{\mathrm {i}\theta }z_2\bigr )=\bigl (\mathrm {e}^{\mathrm {i}\alpha _1\theta }z_1^{\alpha _1}, \mathrm {e}^{\mathrm {i}\alpha _2\theta }z_2^{\alpha _2}\bigr ), \end{aligned}$
+which tells us that each Hopf $S^1$
+-orbit on $S^3_{\alpha _1,\alpha _2}$
+ is mapped 1 : 1 to an orbit of ($A_{1,2}$
+) on $S^3$
+, except for the Hopf orbits $C_i^{\alpha _1,\alpha _2}$
+, which are $\alpha _i$
+-fold coverings of the exceptional $A_{1,2}$
+-orbits $C_i$
+, $i=1,2$
+. Each regular $A_{1,2}$
+-orbit is covered by $\alpha _1\alpha _2$
+ Hopf orbits.</p>
+</sec>
+
+
+<sec id="FPar22"><title>Remark 7.1</title>
+
+<p id="Par95">Beware that in the set-up of Sect. <xref rid="Sec17" ref-type="sec">5.6.2</xref>
+, the orbits $C_1^{\alpha _1,\alpha _2}, C_2^{\alpha _1,\alpha _2}$
+ were of multiplicity $\alpha _2,\alpha _1$
+, respectively, whereas here the orbits $C_1,C_2$
+ are of multiplicity $\alpha _1,\alpha _2$
+, respectively.</p>
+</sec>
+<sec>
+<p id="Par96">Observe that the quotient $S^3/S^1$
+ under the $A_{1,2}$
+-action can be naturally identified with the weighted projective line ${\mathbb {P}}(\alpha _1,\alpha _2)$
+, which is topologically a 2-sphere, and metrically an orbifold with an $\alpha _1$
+- and an $\alpha _2$
+-singularity. The quotient map $\pi _{1,2}:\,S^3\rightarrow S^3/S^1={\mathbb {P}}(\alpha _1,\alpha _2)$
+ is given by\begin{aligned} \pi _{1,2}(z_1,z_2)=[z_1:z_2]_{(\alpha _1,\alpha _2)} \in {\mathbb {P}}(\alpha _1,\alpha _2).\end{aligned}$
+In conclusion, these maps fit together into the following commutative diagram, where $\overline{\rho }_{\alpha _1,\alpha _2}$
+ sends $[z_1:z_2]\in {\mathbb {C}}\mathrm {P}^1$
+ to $[z_1^{\alpha _1}:z_2^{\alpha _2}]_{(\alpha _1,\alpha _2)}\in {\mathbb {P}}(\alpha _1,\alpha _2)$
+: <fig id="Figd" position="anchor"><p><graphic position="anchor" specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/40598_2021_184_Figd_HTML.png" id="MO43"/></p>
+</fig>
+</p>
+</sec>
+
+
+<sec id="FPar23"><title>Remark 7.2</title>
+
+<p id="Par97">Contrast this diagram with the one in Sect. <xref rid="Sec17" ref-type="sec">5.6.2</xref>
+. Whereas the earlier diagram was used to lift a 1-section of $\pi _{\mathrm {Hopf}}$
+ to an $\alpha _1\alpha _2$
+-section of $\pi _{2,1}$
+, the diagram here will allow us to lift <italic>d</italic>
+-sections of $\pi _{1,2}$
+, for all admissible <italic>d</italic>
+, to <italic>d</italic>
+-sections of $\pi _{\mathrm {Hopf}}$
+.</p>
+</sec>
+</sec>
+
+
+<sec id="Sec24"><title>Positive <italic>d</italic>
+-Sections</title>
+<sec>
+<p id="Par98">Before we discuss the lifting of <italic>d</italic>
+-sections, we are going to derive the classification of the positive <italic>d</italic>
+-sections for the Seifert fibrations of $S^3$
+ as a corollary of Theorem <xref rid="FPar11" ref-type="">5.4</xref>
+.</p>
+</sec>
+
+
+<sec id="FPar24"><title>Corollary 7.3</title>
+
+<p id="Par99">Table <xref rid="Tab1" ref-type="table">1</xref>
+ constitutes a complete list of the positive <italic>d</italic>
+-sections $\Sigma $
+ of the Seifert fibrations of $S^3$
+ defined by $(A_{1,2})$
+.</p>
+</sec>
+<sec>
+<p id="Par100"><table-wrap id="Tab1"><label>Table 1</label>
+<caption xml:lang="en"><p>Positive <italic>d</italic>
+-sections $\Sigma $
+ for the Seifert fibrations of $S^3$
+</p>
+</caption>
+<table frame="hsides" rules="groups"><thead><tr><th align="left"><p><italic>d</italic>
+</p>
+</th>
+<th align="left"><p>#$(\partial \Sigma )$
+</p>
+</th>
+<th align="left"><p>$C_1$
+</p>
+</th>
+<th align="left"><p>$C_2$
+</p>
+</th>
+<th align="left"><p>$\mathrm {Genus}(\Sigma )$
+</p>
+</th>
+</tr>
+</thead>
+<tbody><tr><td align="left"><p>$k\alpha _1\alpha _2$
+, $k\in {\mathbb {N}}$
+</p>
+</td>
+<td align="left"><p><italic>k</italic>
+</p>
+</td>
+<td align="left"><p>$\not \subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\not \subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\frac{(k\alpha _1-1)(k\alpha _2-1)+1-k}{2}$
+</p>
+</td>
+</tr>
+<tr><td align="left"><p>$k\alpha _1\alpha _2+\alpha _2$
+, $k\in {\mathbb {N}}_0$
+;</p>
+</td>
+<td align="left"><p>$k+1$
+</p>
+</td>
+<td align="left"><p>$\subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\not \subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\frac{(k\alpha _1+1)(k\alpha _2-1)+1-k}{2}$
+</p>
+</td>
+</tr>
+<tr><td align="left"><p>$\alpha _1&gt;1$
+</p>
+</td>
+<td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr>
+<tr><td align="left"><p>$k\alpha _1\alpha _2+\alpha _1$
+, $k\in {\mathbb {N}}_0$
+;</p>
+</td>
+<td align="left"><p>$k+1$
+</p>
+</td>
+<td align="left"><p>$\not \subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\frac{(k\alpha _1-1)(k\alpha _2+1)+1-k}{2}$
+</p>
+</td>
+</tr>
+<tr><td align="left"><p>$\alpha _2&gt;1$
+</p>
+</td>
+<td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr>
+<tr><td align="left"><p>$k\alpha _1\alpha _2+\alpha _1+\alpha _2$
+, $k\in {\mathbb {N}}_0$
+;</p>
+</td>
+<td align="left"><p>$k+2$
+</p>
+</td>
+<td align="left"><p>$\subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\subset \partial \Sigma $
+</p>
+</td>
+<td align="left"><p>$\frac{(k\alpha _1+1)(k\alpha _2+1)-1-k}{2}$
+</p>
+</td>
+</tr>
+<tr><td align="left"><p>$\alpha _1,\alpha _2&gt;1$
+</p>
+</td>
+<td align="left"/><td align="left"/><td align="left"/><td align="left"/></tr>
+</tbody>
+</table>
+</table-wrap>
+</p>
+</sec>
+<sec>
+<p id="Par101">The expression #$(\partial \Sigma )$
+ in Table <xref rid="Tab1" ref-type="table">1</xref>
+ stands for the number of boundary components of the <italic>d</italic>
+-section $\Sigma $
+. In the first line, in case $\alpha _i$
+ equals 1, the regular fibre $C_i$
+ may well be a component of $\partial \Sigma $
+.</p>
+</sec>
+
+
+<sec id="FPar25"><title>Proof of Corollary 7.3</title>
+
+<p id="Par102">We need to check under which assumptions on <italic>d</italic>
+ the necessary and sufficient conditions (<xref rid="Equ3" ref-type="disp-formula">3</xref>
+) and (<xref rid="Equ4" ref-type="disp-formula">4</xref>
+) are satisfied. Recall that we can write the Seifert fibrations of $S^3$
+ as $M\bigl (0;(\alpha _1,\beta _1),(\alpha _2,\beta _2)\bigr )$
+ with $\alpha _1\beta _2+\alpha _2\beta _1=1$
+, and the Euler number of this fibration is $e=-1/\alpha _1\alpha _2$
+.</p>
+
+<p id="Par103">If both $\alpha _1$
+ and $\alpha _2$
+ divide <italic>d</italic>
+, then $d=k\alpha _1\alpha _2$
+ for some $k\in {\mathbb {N}}$
+, and the left-hand side of (<xref rid="Equ4" ref-type="disp-formula">4</xref>
+) equals $-k$
+. Notice that one or both of the $\alpha _i$
+ may equal 1.</p>
+
+<p id="Par104">Next we consider the case that $\alpha _1|(d\beta _1-1)$
+ (and $\alpha _1\not \mid d$
+) and $\alpha _2|d$
+ (including the case $\alpha _2=1$
+). The divisibility condition $\alpha _1|(d\beta _1-1)$
+ is equivalent to $\alpha _1$
+ being a divisor of\begin{aligned} d\beta _1-1+\alpha _1\beta _2=d\beta _1-\alpha _2\beta _1 =\beta _1(d-\alpha _2), \end{aligned}$
+and hence to $\alpha _1|(d-\alpha _2)$
+. This means that <italic>d</italic>
+ has to be of the form $d=k\alpha _1\alpha _2+\alpha _2$
+ for some $k\in {\mathbb {N}}_0=\{0,1,2,\ldots \}$
+. The case with the roles of $\alpha _1$
+ and $\alpha _2$
+ exchanged is analogous.</p>
+
+<p id="Par105">If $\alpha _i|(d\beta _i-1)$
+, $i=1,2$
+, then the same argument as before shows that $\alpha _1|(d-\alpha _2)$
+ and $\alpha _2|(d-\alpha _1)$
+. For $\alpha _i\not \mid d$
+ (and in particular $\alpha _i&gt;1$
+) these divisibility conditions are equivalent to $d=k\alpha _1\alpha _2+\alpha _1+\alpha _2$
+.</p>
+
+<p id="Par106">The remaining data in Table <xref rid="Tab1" ref-type="table">1</xref>
+ on $\#(\partial \Sigma )$
+ and the genus of $\Sigma $
+ follow from Lemma <xref rid="FPar7" ref-type="">5.1</xref>
+ and Theorem <xref rid="FPar11" ref-type="">5.4</xref>
+. $\square $
+</p>
+</sec>
+
+
+<sec id="FPar26"><title>Remark 7.4</title>
+
+<p id="Par107">Notice that every Seifert fibration of $S^3$
+ admits a disc-like <italic>d</italic>
+-section, that is, a section of genus zero with one boundary component. This underlines the subtlety of the construction in [<xref ref-type="bibr" rid="CR14">14</xref>
+] of a Reeb flow on $S^3$
+ without any disc-like global surface of section; see also [<xref ref-type="bibr" rid="CR12">12</xref>
+].</p>
+</sec>
+</sec>
+
+
+<sec id="Sec25"><title>Lifting <italic>d</italic>
+-Sections</title>
+
+<p id="Par108">We now want to describe an alternative method for computing the genus of <italic>d</italic>
+-sections, based on lifting a <italic>d</italic>
+-section of $\pi _{1,2}$
+ to a <italic>d</italic>
+-section of $\pi _{\mathrm {Hopf}}$
+ in the diagram from Sect. <xref rid="Sec23" ref-type="sec">7.1</xref>
+, and then using previous results on surfaces of section for the Hopf flow [<xref ref-type="bibr" rid="CR1">1</xref>
+].</p>
+
+<p id="Par109">Thus, let $\Sigma \subset S^3$
+ be a positive <italic>d</italic>
+-section for $\pi _{1,2}$
+. Write ${\widetilde{\Sigma }}\subset S^3_{\alpha _1,\alpha _2}$
+ for the lift of $\Sigma $
+ under the $\alpha _1\alpha _2$
+-fold covering $\rho _{\alpha _1,\alpha _2}:\,S^3_{\alpha _1,\alpha _2}\rightarrow S^3$
+. As in Table <xref rid="Tab1" ref-type="table">1</xref>
+, we write $k\in {\mathbb {N}}_0$
+ for the number of regular boundary components of $\Sigma $
+. Additionally, one or both of $C_1,C_2$
+ may belong to the boundary. (If neither of them does, then $k\ge 1$
+.)</p>
+
+<p id="Par110">As observed in Sect. <xref rid="Sec23" ref-type="sec">7.1</xref>
+, each regular fibre of $\pi _{1,2}$
+ is covered 1 : 1 by $\alpha _1\alpha _2$
+ Hopf fibres. This contributes $k\alpha _1\alpha _2$
+ boundary components to ${\widetilde{\Sigma }}$
+. Away from the boundary, ${\widetilde{\Sigma }}$
+ is a <italic>d</italic>
+-section for $\pi _{\mathrm {Hopf}}$
+ for the same reason. In particular, if $C_1,C_2\not \subset \partial \Sigma $
+, then ${\widetilde{\Sigma }}$
+ is a positive <italic>d</italic>
+-section for the Hopf flow.</p>
+
+<p id="Par111">If $C_i\subset \partial \Sigma $
+ for at least one $i\in \{1,2\}$
+, the situation is more complicated. A point on $C_i$
+ has $\alpha _i$
+ preimages on $C_i^{\alpha _1,\alpha _2}$
+ under $\rho _{\alpha _1,\alpha _2}$
+, whereas each point on $\Sigma {\setminus }(C_1\cup C_2)$
+ has $\alpha _1\alpha _2$
+ preimages. It follows that along $C_i^{\alpha _1,\alpha _2}$
+ the lifted surface ${\widetilde{\Sigma }}$
+ is no longer embedded, but looks like a rather slim open book with spine $C_i^{\alpha _1,\alpha _2}$
+ and $\alpha _j$
+ pages, where (<italic>i</italic>
+, <italic>j</italic>
+) is a permutation of (1, 2). We shall describe how to modify the map $\rho _{\alpha _1,\alpha _2}$
+ to ensure that the lifted surface ${\widetilde{\Sigma }}$
+ is a <italic>d</italic>
+-section for the Hopf flow.</p>
+
+
+<sec id="Sec26"><title>The Behaviour of ${\widetilde{\Sigma }}$
+ Near an Exceptional Boundary Fibre</title>
+
+<p id="Par112">Even though this is not relevant for the genus calculations, it is worth understanding the behaviour of ${\widetilde{\Sigma }}$
+ near a boundary fibre $C_1^{\alpha _1,\alpha _2}$
+, say. Let $\sigma $
+ be the curve $\partial V\cap \Sigma $
+ as in the proof of Lemma <xref rid="FPar2" ref-type="">4.1</xref>
+ or <xref rid="FPar7" ref-type="">5.1</xref>
+, with <italic>V</italic>
+ a tubular neighbourhood of $C_1\subset S^3$
+. Write ${\tilde{\sigma }}$
+ for the lift of $\sigma $
+ to ${\widetilde{\Sigma }}$
+. This is a (possibly disconnected) curve on the boundary of a tubular neighbourhood ${\widetilde{V}}$
+ of $C_1^{\alpha _1,\alpha _2}\subset S^3_{\alpha _1,\alpha _2}$
+.</p>
+
+<p id="Par113">Write ${\tilde{\mu }}$
+ for the meridian on $\partial {\widetilde{V}}$
+, and ${\tilde{\lambda }}$
+ for the longitude determined by the class of a Hopf fibre. Since $C_1^{\alpha _1,\alpha _2}$
+ is an $\alpha _1$
+-fold cover of $C_1$
+, but ${{\,\mathrm{Int}\,}}({\widetilde{\Sigma }})$
+ is an $\alpha _1\alpha _2$
+-fold cover of ${{\,\mathrm{Int}\,}}(\Sigma )$
+ near the boundary, the curve ${\tilde{\sigma }}$
+ lies in the class $m{\tilde{\mu }}+\alpha _2{\tilde{\lambda }}$
+ for some $m\in {\mathbb {Z}}$
+. The fact that ${\widetilde{\Sigma }}$
+ is a <italic>d</italic>
+-section (away from the boundary) translates into $-d={\tilde{\sigma }}\bullet {\tilde{\lambda }}=m$
+, cf. the proof of Lemma <xref rid="FPar7" ref-type="">5.1</xref>
+. Thus, if $\alpha _2$
+ and <italic>d</italic>
+ are coprime (which in the global picture is equivalent to $C_2$
+ being a boundary fibre, unless $\alpha _2=1$
+), the curve ${\tilde{\sigma }}$
+ is indivisible, and hence connected. Otherwise, by the alternative in (<xref rid="Equ3" ref-type="disp-formula">3</xref>
+), $\alpha _2$
+ is a divisor of <italic>d</italic>
+, and ${\tilde{\sigma }}$
+ is made up of $\alpha _2$
+ parallel curves on $\partial {\widetilde{V}}$
+.</p>
+
+<p id="Par114">When we remove thin collar neighbourhoods of $C_1^{\alpha _1,\alpha _2} \subset {\widetilde{\Sigma }}$
+ and $C_1\subset \Sigma $
+, then in the first case we obtain a covering ${\widetilde{\Sigma }}\rightarrow \Sigma $
+ with a single boundary component corresponding to $C_1^{\alpha _1,\alpha _2}$
+, which is an $\alpha _1\alpha _2$
+-fold covering of the corresponding boundary component of $\Sigma $
+. In the second case, $C_1^{\alpha _1,\alpha _2}$
+ gives rise to $\alpha _2$
+ boundary components in ${\widetilde{\Sigma }}$
+, each of which is an $\alpha _1$
+-fold cover of one and the same boundary component of $\Sigma $
+.</p>
+
+<p id="Par115">Beware, however, that this modification of ${\widetilde{\Sigma }}$
+ into a surface with embedded boundary need not give the correct topology of a positive <italic>d</italic>
+-section for the Hopf flow. Before we describe the proper desingularisation of ${\widetilde{\Sigma }}$
+, we analyse the case without exceptional fibres in the boundary.</p>
+</sec>
+
+
+<sec id="Sec27"><title>The Case $C_i\not \subset \partial \Sigma $
+, $i=1,2$
+</title>
+
+<p id="Par116">When $C_1$
+ is not contained in the boundary of $\Sigma $
+, the <italic>d</italic>
+-section $\Sigma $
+ is near $C_1$
+ made up of $d/\alpha _1$
+ discs transverse to $C_1$
+. Every neighbouring regular fibre cuts these discs $\alpha _1$
+ times, and hence in a total of <italic>d</italic>
+ points. Since $C_1^{\alpha _1,\alpha _2}\rightarrow C_1$
+ is an $\alpha _1$
+-fold covering, the lifted surface ${\widetilde{\Sigma }}$
+ cuts $C_1^{\alpha _1,\alpha _2}$
+ in <italic>d</italic>
+ points, and the branching index of ${\widetilde{\Sigma }}\rightarrow \Sigma $
+ at these points equals $\alpha _2$
+.</p>
+
+<p id="Par117">Similarly, each of the $d/\alpha _2$
+ intersection points of $\Sigma $
+ with $C_2$
+ has $\alpha _2$
+ preimages in ${\widetilde{\Sigma }}$
+ of branching index $\alpha _1$
+.</p>
+
+<p id="Par118">Each of the <italic>k</italic>
+ boundary components of $\Sigma $
+ is covered 1 : 1 by $\alpha _1\alpha _2$
+ boundary components of ${\widetilde{\Sigma }}$
+, so the branched covering ${\widetilde{\Sigma }}\rightarrow \Sigma $
+ extends to a covering of closed surfaces without additional branching points.</p>
+
+<p id="Par119">In [<xref ref-type="bibr" rid="CR1">1</xref>
+, Theorem 4.1] it was shown that a positive <italic>d</italic>
+-section ${\widetilde{\Sigma }}$
+ for the Hopf flow is a connected, orientable surface of genus $(d-1)(d-2)/2$
+ and with <italic>d</italic>
+ boundary components. Write <italic>g</italic>
+ for the genus of $\Sigma $
+. Then the Riemann–Hurwitz formula gives\begin{aligned} 2-(d-1)(d-2)=\alpha _1\alpha _2\left( 2-2g-\frac{d}{\alpha _1}- \frac{d}{\alpha _2}\right) +2d. \end{aligned}$
+With $d=k\alpha _1\alpha _2$
+ this yields the formula in the first line of Table <xref rid="Tab1" ref-type="table">1</xref>
+.</p>
+</sec>
+
+
+<sec id="Sec28"><title>The Case $C_i\subset \partial \Sigma $
+</title>
+<sec>
+<p id="Par120">We illustrate the situation when one or both of $C_1,C_2$
+ are boundary fibres by considering the case $C_1\subset \partial \Sigma $
+ and $C_2\not \subset \partial \Sigma $
+. The other cases can be treated in an analogous fashion.</p>
+</sec>
+<sec>
+<p id="Par121">To desingularise the lifted surface ${\widetilde{\Sigma }}$
+ near $C_1^{\alpha _1,\alpha _2}$
+, we modify the copy $S^3_{\alpha _1,\alpha _2}$
+ of the 3-sphere and the quotient map $\rho _{\alpha _1,\alpha _2}$
+. For some small $\varepsilon &gt;0$
+, we define\begin{aligned} S^3_{\alpha _1,\alpha _2,\varepsilon }:= \bigl \{(z_1,z_2)\in {\mathbb {C}}^2:\,|z_1|^{2\alpha _1}+|z_2^{\alpha _2}-\varepsilon z_1^{\alpha _2}|^2=1\bigr \}. \end{aligned}$
+This is still a (strictly) starshaped hypersurface with respect to the origin, and hence a diffeomorphic copy of the 3-sphere.</p>
+</sec>
+<sec>
+<p id="Par122">In the commutative diagram of Sect. <xref rid="Sec23" ref-type="sec">7.1</xref>
+, we replace $S^3_{\alpha _1,\alpha _2}$
+ by $S^3_{\alpha _1,\alpha _2,\varepsilon }$
+, and the map $\rho _{\alpha _1,\alpha _2}$
+ by\begin{aligned} \rho ^{\varepsilon }_{\alpha _1,\alpha _2}(z_1,z_2):= \bigl (z_1^{\alpha _1},z_2^{\alpha _2}-\varepsilon z_1^{\alpha _2}\bigr ). \end{aligned}$
+The preimage of a point $(w_1,w_2)\in S^3$
+ under $\rho ^{\varepsilon }_{\alpha _1,\alpha _2}$
+ consists of the points\begin{aligned} (z_1,z_2)=\bigl (w_1^{1/\alpha _1}, (w_2+\varepsilon w_1^{\alpha _2/\alpha _1})^{1/\alpha _2}\bigr ), \end{aligned}$
+where the choice of root $w_1^{1/\alpha _1}$
+ is the same in both components. If $w_1\ne 0$
+ and $w_2+\varepsilon w_1^{\alpha _2/\alpha _1}\ne 0$
+ for all choices of $w_1^{1/\alpha _1}$
+, this gives us $\alpha _1\alpha _2$
+ preimages. Hence, generically a fibre of $\pi _{1,2}$
+ is covered 1 : 1 by $\alpha _1\alpha _2$
+ Hopf fibres, as for $\rho _{\alpha _1,\alpha _2}$
+.</p>
+</sec>
+<sec>
+<p id="Par123">(i) <italic>The desingularised lift of</italic>
+ $C_1$
+. While under $\rho _{\alpha _1,\alpha _2}$
+ the fibre $C_1$
+ of $\pi _{1,2}$
+ was covered $\alpha _1$
+ times by $C_1^{\alpha _1,\alpha _2}$
+, and in particular each point on $C_1$
+ had only $\alpha _1$
+ preimages, under $\rho ^{\varepsilon }_{\alpha _1,\alpha _2}$
+ the point $(w_1,0)\in C_1$
+ is covered by $\alpha _1\alpha _2$
+ points $\bigl (w_1^{1/\alpha _1},\varepsilon ^{1/\alpha _2}w_1^{1/\alpha _1}\bigr )$
+. Notice that the $\alpha _1$
+ different choices of $w_1^{1/\alpha _1}$
+ yield points on the same Hopf fibre, so the preimage of $C_1$
+ consists of $\alpha _2$
+ Hopf fibres in the boundary of ${\widetilde{\Sigma }}$
+, each of which is an $\alpha _1$
+-fold cover of $C_1$
+. This allows us to pass to closed surfaces ${\hat{{\widetilde{\Sigma }}}},{\hat{\Sigma }}$
+ as in the proof of Theorem <xref rid="FPar11" ref-type="">5.4</xref>
+, and the boundary component $C_1\subset \partial \Sigma $
+ contributes $\alpha _2$
+ points in ${\hat{{\widetilde{\Sigma }}}}$
+ of branching index $\alpha _1$
+ sitting over a single point in ${\hat{\Sigma }}$
+.</p>
+</sec>
+<sec>
+<p id="Par124">(ii) <italic>Branch points with</italic>
+$z_1=0$
+. One case when a point in $S^3$
+ has fewer than $\alpha _1\alpha _2$
+ preimages is when $w_1=0$
+, that is, points on $C_2$
+. The fibre $C_2$
+ of $\pi _{1,2}$
+ is covered $\alpha _2$
+ times by the Hopf fibre $C_2^{\alpha _1,\alpha _2}$
+. Since $C_2$
+ is a fibre of multiplicity $\alpha _2$
+, the <italic>d</italic>
+-section $\Sigma $
+ cuts it in $d/\alpha _2$
+ points. As in Sect. <xref rid="Sec27" ref-type="sec">7.3.2</xref>
+ this gives us <italic>d</italic>
+ branch points upstairs on $C_2^{\alpha _1,\alpha _2}$
+ of branching index $\alpha _1$
+.</p>
+</sec>
+<sec>
+<p id="Par125">(iii) <italic>Branch points with</italic>
+$z_2=0$
+. The only other case when a point $(w_1,w_2)\in S^3$
+ has fewer than $\alpha _1\alpha _2$
+ preimages under $\rho ^{\varepsilon }_{\alpha _1,\alpha _2}$
+ is when $w_2+\varepsilon w_1^{\alpha _2/\alpha _1}=0$
+ for some choice of $w_1^{1/\alpha _1}$
+. These correspond to points upstairs with $z_2=0$
+, that is, points on $C_1^{\alpha _1,\alpha _2}$
+. The restriction of $\rho ^{\varepsilon }_{\alpha _1,\alpha _2}$
+ to $C_1^{\alpha _1,\alpha _2}$
+ is given by\begin{aligned} \bigl (\mathrm {e}^{\mathrm {i}\theta },0\bigr )\longmapsto \bigl (\mathrm {e}^{\mathrm {i}\alpha _1\theta }, -\varepsilon \mathrm {e}^{\mathrm {i}\alpha _2\theta }\bigr ), \end{aligned}$
+so $C_1^{\alpha _1,\alpha _2}$
+ maps injectively to the $\pi _{1,2}$
+-fibre through the point $(1,-\varepsilon )$
+. We choose $\varepsilon &gt;0$
+ small enough to ensure that this is not a boundary component of $\Sigma $
+.</p>
+</sec>
+<sec>
+<p id="Par126">For ease of notation we set $\lambda =\mathrm {e}^{\mathrm {i}\theta }$
+. We now ask: what are the preimages of $(w_1,w_2)=(\lambda ^{\alpha _1},-\varepsilon \lambda ^{\alpha _2})$
+, except for the point $(\lambda ,0)\in C_1^{\alpha _1,\alpha _2}$
+? The equations\begin{aligned} \left\{ \begin{array}{l} z_1^{\alpha _1}=\lambda ^{\alpha _1},\\ z_2^{\alpha _2}-\varepsilon z_1^{\alpha _2}=-\varepsilon \lambda ^{\alpha _2} \end{array}\right. \end{aligned}$
+have the solutions\begin{aligned} \left\{ \begin{array}{l} z_1=\lambda \mathrm {e}^{2\pi \mathrm {i}k/\alpha _1},\;\; k\in \{0,\ldots ,\alpha _1-1\}\\ z_2=\root \alpha _2 \of {\varepsilon }\lambda \bigl (\mathrm {e}^{2\pi \mathrm {i}k/\alpha _1}-1\bigr )^{1/\alpha _2}, \end{array}\right. \end{aligned}$
+where $\root \alpha _2 \of {\varepsilon }$
+ denotes the root in ${\mathbb {R}}^+$
+. For each $k\in \{1,\ldots ,\alpha _1-1\}$
+ (<italic>sic</italic>
+!) and given $\lambda $
+ we obtain $\alpha _2$
+ solutions on different Hopf fibres. For $k=0$
+ we obtain the unique solution $(\lambda ,0)$
+, where we have branching of index $\alpha _2$
+.</p>
+</sec>
+<sec>
+<p id="Par127">The <italic>d</italic>
+-section $\Sigma $
+ cuts the $\pi _{1,2}$
+-fibre through the point $(1,-\varepsilon )$
+ in <italic>d</italic>
+ points. For each of these <italic>d</italic>
+ points we obtain a single branch point upstairs of index $\alpha _2$
+.</p>
+</sec>
+<sec>
+<p id="Par128"><italic>Computing the genus of</italic>
+${\widetilde{\Sigma }}$
+. We can now compute the genus of ${\widetilde{\Sigma }}$
+ by counting the branch points of ${\widetilde{\Sigma }}\rightarrow \Sigma $
+ upstairs. We have <list list-type="order"><list-item>
+<p id="Par129">$\alpha _2$
+ branch points of index $\alpha _1$
+,</p>
+</list-item>
+<list-item>
+<p id="Par130"><italic>d</italic>
+ branch points of index $\alpha _1$
+,</p>
+</list-item>
+<list-item>
+<p id="Par131"><italic>d</italic>
+ branch points of index $\alpha _2$
+.</p>
+</list-item>
+</list>
+The Riemann–Hurwitz formula then tells us that\begin{aligned} 2-(d-1)(d-2)+\alpha _2(\alpha _1-1)+d(\alpha _1-1)+d(\alpha _2-1)= \alpha _1\alpha _2(2-2g). \end{aligned}$
+With $d=k\alpha _1\alpha _2+\alpha _2$
+ we obtain the formula in the second line of Table <xref rid="Tab1" ref-type="table">1</xref>
+.</p>
+</sec>
+
+
+<sec id="FPar27"><title>Remark 7.5</title>
+
+<p id="Par132">In the case when $C_1\not \subset \partial \Sigma $
+ and $C_2\subset \partial \Sigma $
+, one simply reverses the roles of $z_1$
+ and $z_2$
+ in the above argument. If both $C_1$
+ and $C_2$
+ are boundary fibres, one replaces $S^3_{\alpha _1,\alpha _2}$
+ by\begin{aligned} S^3_{\alpha _1,\alpha _2,\varepsilon _1,\varepsilon _2}:= \bigl \{(z_1,z_2)\in {\mathbb {C}}^2:\,|z_1^{\alpha _1}-\varepsilon _1z_2^{\alpha _1}|^2 +|z_2^{\alpha _2}-\varepsilon _2 z_1^{\alpha _2}|^2=1\bigr \} \end{aligned}$
+for some small $\varepsilon _1,\varepsilon _2&gt;0$
+, and $\rho _{\alpha _1,\alpha _2}$
+ by\begin{aligned} \rho ^{\varepsilon _1,\varepsilon _2}_{\alpha _1,\alpha _2}(z_1,z_2):= \bigl (z_1^{\alpha _1}-\varepsilon _1z_2^{\alpha _1}, z_2^{\alpha _2}-\varepsilon _2 z_1^{\alpha _2}\bigr ). \end{aligned}$
+</p>
+</sec>
+</sec>
+</sec>
+</sec>
+
+
+<sec id="Sec29"><title>Surfaces of Section and Algebraic Curves</title>
+
+<p id="Par133">We now wish to relate surfaces of section for Seifert fibrations of $S^3$
+ to algebraic curves in weighted projective planes ${\mathbb {P}}(1,\alpha _1,\alpha _2)$
+. The degree-genus formula for such algebraic curves [<xref ref-type="bibr" rid="CR16">16</xref>
+] then allows us to confirm Corollary <xref rid="FPar24" ref-type="">7.3</xref>
+. Conversely, our results on positive <italic>d</italic>
+-sections can be read as an alternative proof of the degree-genus formula. Moreover, the lifting of <italic>d</italic>
+-sections as described in Sect. <xref rid="Sec25" ref-type="sec">7.3</xref>
+ permits a natural interpretation as the lifting of algebraic curves from ${\mathbb {P}}(1,\alpha _1,\alpha _2)$
+ to ${\mathbb {C}}\mathrm {P}^2$
+.</p>
+
+<p id="Par134">In [<xref ref-type="bibr" rid="CR1">1</xref>
+], it was explained how an algebraic curve $C\subset {\mathbb {C}}\mathrm {P}^2$
+ of degree <italic>d</italic>
+ gives rise to a surface of section $\Sigma \subset S^3$
+ for the Hopf flow. Simply consider the affine part $C_{\mathrm {aff}}:=C\cap {\mathbb {C}}^2$
+ of <italic>C</italic>
+, and project $C_{\mathrm {aff}}{\setminus }\{(0,0)\}$
+ radially to the unit sphere $S^3\subset {\mathbb {C}}^2$
+. Under suitable assumptions on <italic>C</italic>
+, this will be a surface of section $\Sigma $
+ for the Hopf flow, with positive boundary components coming from points on <italic>C</italic>
+ at infinity, and negative boundary components if $(0,0)\in C_{\mathrm {aff}}$
+. The multiplicity of the section is determined by the number of intersection points of $C_{\mathrm {aff}}{\setminus }\{(0,0)\}$
+ with a radial plane in ${\mathbb {C}}^2$
+.</p>
+
+<p id="Par135">Topologically, the algebraic curve is obtained from the corresponding surface of section by capping off the boundary components with discs. This means that the genus of the algebraic curve equals that of the surface of section.</p>
+
+<p id="Par136">For instance, if $C=\{F=0\}$
+ with <italic>F</italic>
+ a homogeneous polynomial of degree <italic>d</italic>
+ of the form\begin{aligned} F(z_0,z_1,z_2)=f(z_1,z_2)-z_0^d, \end{aligned}$
+the intersection of $C_{\mathrm {aff}}$
+ with the punctured radial plane $P_{a,b}:=\{(az,bz):\,z\in {\mathbb {C}}^*\}$
+, where $(a,b)\in S^3\subset {\mathbb {C}}^2$
+, is given by the solutions <italic>z</italic>
+ to the equation $f(a,b)z^d=1$
+. If $f(a,b)\ne 0$
+, this gives rise to <italic>d</italic>
+ points $(az,bz)\in C_{\mathrm {aff}}\cap P_{a,b}$
+ whose projection to $S^3$
+ lie on the Hopf fibre through the point (<italic>a</italic>
+, <italic>b</italic>
+). If $f(a,b)=0$
+, there are no intersections of $C_{\mathrm {aff}}$
+ with the radial plane, but now the point [0 : <italic>a</italic>
+ : <italic>b</italic>
+] at infinity lies on <italic>C</italic>
+ and corresponds to a boundary fibre of $\Sigma $
+. The surface of section $\Sigma $
+ has no negative boundary components, since $F(1,0,0)\ne 0$
+.</p>
+
+<p id="Par137">It is this simple example that we want to generalise to positive <italic>d</italic>
+-sections of ($A_{1,2}$
+) and algebraic curves in weighted projective planes, as it illustrates some of the essential features of the correspondence between these two classes of objects. Moreover, we shall see (Remark <xref rid="FPar32" ref-type="">8.4</xref>
+) that every positive <italic>d</italic>
+-section can be realised by an algebraic curve of this form.</p>
+
+
+<sec id="Sec30"><title>Weighted Homogeneous Polynomials</title>
+<sec>
+<p id="Par138">As explained in Sect. <xref rid="Sec21" ref-type="sec">6.2</xref>
+, an algebraic curve in ${\mathbb {P}}(1,\alpha _1,\alpha _2)$
+ is defined by a $(1,\alpha _1,\alpha _2)$
+-weighted homogeneous polynomial. We want to consider such polynomials of the form\begin{aligned} F(z_0,z_1,z_2)=f(z_1,z_2)-z_0^d. \end{aligned}$
+The following lemma is the analogue of the factorisation of an unweighted homogeneous polynomial in two variables into linear factors [<xref ref-type="bibr" rid="CR13">13</xref>
+, Lemma 2.8].</p>
+</sec>
+
+
+<sec id="FPar28"><title>Lemma 8.1</title>
+
+<p id="Par139">If <italic>F</italic>
+ is non-singular, then <italic>f</italic>
+ is of the form\begin{aligned} f(z_1,z_2)=(b_1^{\alpha _1}z_1^{\alpha _2}-a_1^{\alpha _2}z_2^{\alpha _1}) \cdot \ldots \cdot (b_k^{\alpha _1}z_1^{\alpha _2}-a_k^{\alpha _2}z_2^{\alpha _1}) \cdot z_1^{\varepsilon _1}\cdot z_2^{\varepsilon _2} \end{aligned}$
+with $\varepsilon _1,\varepsilon _2\in \{0,1\}$
+ and $[a_i:b_i]_{(\alpha _1,\alpha _2)}\in {\mathbb {P}}(\alpha _1,\alpha _2)$
+, $i=1,\ldots ,k$
+, pairwise distinct points different from $[1:0]_{(\alpha _1,\alpha _2)}$
+ and $[0:1]_{(\alpha _1,\alpha _2)}$
+. If at least one $\varepsilon _i$
+ equals 1, one may have $k=0$
+.</p>
+
+<p id="Par140">In particular, the degree <italic>d</italic>
+ of <italic>F</italic>
+ equals $d=k\alpha _1\alpha _2+\varepsilon _1\alpha _1+\varepsilon _2\alpha _2$
+.</p>
+</sec>
+
+
+<sec id="FPar29"><title>Proof</title>
+
+<p id="Par141">We have $f(0,1)=0$
+ if and only if <italic>f</italic>
+ is divisible by $z_1$
+. Similarly, $f(1,0)=0$
+ holds if and only if <italic>f</italic>
+ is divisible by $z_2$
+. In either case, there can be at most one such factor each of $z_1$
+ or $z_2$
+, lest <italic>F</italic>
+ be singular.</p>
+
+<p id="Par142">After dividing by these factors, in case they are present, we have a sum of complex monomials $c_{mn}z_1^mz_2^n$
+ with $\alpha _1m+\alpha _2n=\mathrm {const.}$
+ and at least one non-zero monomial each without a $z_1$
+- or $z_2$
+-factor, respectively. From the identity $\alpha _1m+\alpha _2n=\alpha _1m'+\alpha _2n'$
+ we deduce $\alpha _1|(n-n')$
+ and $\alpha _2|(m-m')$
+, which implies that <italic>f</italic>
+ is of the form\begin{aligned} f(z_1,z_2)=z_1^{\varepsilon _1}\cdot z_2^{\varepsilon _2}\cdot \sum _{i=0}^k c_iz_1^{i\alpha _2}z_2^{(k-i)\alpha _1} \end{aligned}$
+with $c_0,c_k\ne 0$
+.</p>
+
+<p id="Par143">The sum in this description is a homogeneous polynomial of degree <italic>k</italic>
+ in $z_1^{\alpha _2}$
+ and $z_2^{\alpha _1}$
+, and hence, by [<xref ref-type="bibr" rid="CR13">13</xref>
+, Lemma 2.8], has a factorisation into linear factors in $z_1^{\alpha _2}$
+ and $z_2^{\alpha _1}$
+. The condition on the $[a_i:b_i]_{(\alpha _1,\alpha _2)}$
+ is equivalent to <italic>f</italic>
+ having no repeated factors. $\square $
+</p>
+</sec>
+</sec>
+
+
+<sec id="Sec31"><title>Constructing <italic>d</italic>
+-Sections from Algebraic Curves</title>
+<sec>
+<p id="Par144">We now want to show how a complex algebraic curve $C=\{F=0\}$
+, with <italic>F</italic>
+ as in (<xref rid="Equ6" ref-type="disp-formula">6</xref>
+), gives rise to a positive <italic>d</italic>
+-section of the $A_{1,2}$
+-flow. For this we need to work with a weighted ‘radial’ projection ${\mathbb {C}}^2{\setminus }\{(0,0)\} \rightarrow S^3$
+ given by sending $(z_1,z_2)$
+ to the unique point on $S^3$
+ of the form $(z_1/r^{\alpha _1},z_2/r^{\alpha _2})$
+, $r\in {\mathbb {R}}^+$
+. This projection map is smooth. We define weighted ‘punctured radial complex planes’ for $(a,b)\in S^3\subset {\mathbb {C}}^2$
+ as\begin{aligned} P_{a,b}:=\bigl \{(az^{\alpha _1},bz^{\alpha _2}):\,z\in {\mathbb {C}}^*\bigr \}. \end{aligned}$
+Under the radial projection we have, for $z=r\mathrm {e}^{\mathrm {i}\theta }$
+,\begin{aligned} \bigl (az^{\alpha _1},bz^{\alpha _2}\bigr )\longmapsto \bigl (\mathrm {e}^{\mathrm {i}\alpha _1\theta }a, \mathrm {e}^{\mathrm {i}\alpha _2\theta }b\bigr ), \end{aligned}$
+that is, $P_{a,b}$
+ projects to the $A_{1,2}$
+-orbit through (<italic>a</italic>
+, <italic>b</italic>
+) on $S^3$
+.</p>
+</sec>
+<sec>
+<p id="Par145">The following is the generalisation of [<xref ref-type="bibr" rid="CR1">1</xref>
+, Proposition 5.1] from the Hopf flow to all Seifert fibrations of $S^3$
+.</p>
+</sec>
+
+
+<sec id="FPar30"><title>Proposition 8.2</title>
+
+<p id="Par146">The complex algebraic curve $C=\{F=0\}$
+ in the weighted complex plane ${\mathbb {P}}(1,\alpha _1,\alpha _2)$
+, where <italic>F</italic>
+ is a weighted homogeneous polynomial of the form (<xref rid="Equ6" ref-type="disp-formula">6</xref>
+), defines a positive <italic>d</italic>
+-section for the flow $(z_1,z_2)\mapsto \bigl (\mathrm {e}^{\mathrm {i}\alpha _1\theta }z_1,\mathrm {e}^{\mathrm {i}\alpha _2\theta }z_2\bigr )$
+ on $S^3$
+ if and only if <italic>F</italic>
+ is non-singular.</p>
+</sec>
+<sec>
+<p id="Par147">The proof of this proposition is analogous to that of [<xref ref-type="bibr" rid="CR1">1</xref>
+, Proposition 5.1], and we only sketch the necessary modifications.</p>
+</sec>
+<sec>
+<p id="Par148">The affine part $C_{\mathrm {aff}}= \bigl \{(z_1,z_2)\in {\mathbb {C}}^2:\,f(z_1,z_2)=1\bigr \}$
+ can be shown to intersect each $P_{a,b}$
+ in <italic>d</italic>
+ points that do not lie on a real radial ray, and hence project to <italic>d</italic>
+ distinct points on the corresponding $A_{1,2}$
+-orbit on $S^3$
+, except in the following cases.<list list-type="bullet"><list-item>
+<p id="Par149">Solutions of the equation $f(z_1,0)=1$
+ or $f(0,z_2)=1$
+ correspond to $C_1$
+ or $C_2$
+<italic>not</italic>
+ being a boundary fibre, and they give rise to $d/\alpha _1$
+ or $d/\alpha _2$
+ intersection points, respectively.</p>
+</list-item>
+<list-item>
+<p id="Par150">Solutions to the equation $f(z_1,z_2)=0$
+, that is, points at infinity on <italic>C</italic>
+, correspond to boundary fibres.</p>
+</list-item>
+</list>
+The correct asymptotic behaviour near the boundary fibres can be demonstrated with the explicit factorisation of <italic>f</italic>
+ given by Lemma <xref rid="FPar28" ref-type="">8.1</xref>
+.</p>
+</sec>
+</sec>
+
+
+<sec id="Sec32"><title>Branched Coverings of Algebraic Curves</title>
+
+<p id="Par151">The map $\rho _{\alpha _1,\alpha _2}:\,S^3_{\alpha _1,\alpha _2}\rightarrow S^3$
+ has a natural extension to\begin{aligned} \begin{array}{rccc} \rho _{\alpha _1,\alpha _2}:\,&amp;{} {\mathbb {C}}\mathrm {P}^2 &amp;{} \longrightarrow &amp;{} {\mathbb {P}}(1,\alpha _1,\alpha _2)\\ &amp;{} [z_0:z_1:z_2] &amp;{} \longmapsto &amp;{} [z_0:z_1^{\alpha _1}: z_2^{\alpha _2}]_{(1,\alpha _1,\alpha _2)}. \end{array}\end{aligned}$
+A weighted algebraic curve $C=\{F=0\}\subset {\mathbb {P}}(1,\alpha _1,\alpha _2)$
+ lifts to the algebraic curve ${\widetilde{C}}=\{{\widetilde{F}}=0\}\subset {\mathbb {C}}\mathrm {P}^2$
+, where ${\widetilde{F}}$
+ is the homogeneous polynomial of degree <italic>d</italic>
+ defined by ${\widetilde{F}}(z_0,z_1,z_2)=F(z_0,z_1^{\alpha _1},z_2^{\alpha _2})$
+. The lift ${\widetilde{C}}$
+ of a non-singular algebraic curve <italic>C</italic>
+ may well be singular.</p>
+
+<p id="Par152">Under this extended map $\rho _{\alpha _1,\alpha _2}$
+, the standard punctured plane\begin{aligned} \bigl \{(az,bz):\,z\in {\mathbb {C}}^*\bigr \}\subset {\mathbb {C}}^2, \end{aligned}$
+with $(a,b)\in S^3_{\alpha _1,\alpha _2}$
+, maps to $P_{a^{\alpha _1},b^{\alpha _2}}$
+.</p>
+
+<p id="Par153">The discussion in Sect. <xref rid="Sec25" ref-type="sec">7.3</xref>
+ carries over to algebraic curves $C=\{F=0\}$
+ with <italic>F</italic>
+ as in (<xref rid="Equ6" ref-type="disp-formula">6</xref>
+), only changing notation to (weighted) homogeneous coordinates. This means that we can compute the genus of a weighted algebraic curve in ${\mathbb {P}}(1,\alpha _1,\alpha _2)$
+ by lifting it to an algebraic curve in ${\mathbb {C}}\mathrm {P}^2$
+, and then applying the Riemann–Hurwitz formula and the known results about algebraic curves in ${\mathbb {C}}\mathrm {P}^2$
+. In the covering ${\widetilde{C}}\rightarrow C$
+, we see the same branching behaviour as for the (extended) surfaces of section, and we can apply the same process of desingularisation in case <italic>C</italic>
+ contains one or both of the points $[0:1:0]_{(1,\alpha _1,\alpha _2)}$
+ or $[0:0:1]_{(1,\alpha _1,\alpha _2)}$
+ at infinity.</p>
+</sec>
+
+
+<sec id="Sec33"><title>Computing the Genus of Algebraic Curves via Surfaces of Section</title>
+<sec>
+<p id="Par154">Here is the general formula for computing the genus of a non-singular algebraic curve in a weighted projective plane, see [<xref ref-type="bibr" rid="CR16">16</xref>
+, Corollary 3.5], [<xref ref-type="bibr" rid="CR6">6</xref>
+, Theorem 5.3.7].</p>
+</sec>
+
+
+<sec id="FPar31"><title>Theorem 8.3</title>
+
+<p id="Par155">The genus of a non-singular algebraic curve of degree <italic>d</italic>
+ in the weighted projective plane ${\mathbb {P}}(a_0,a_1,a_2)$
+ is given by\begin{aligned} g=\frac{1}{2}\left( \frac{d^2}{a_0a_1a_2}- d\sum _{i&lt;j}\frac{\gcd (a_i,a_j)}{a_ia_j}+ \sum _i\frac{\gcd (a_i,d)}{a_i}-1\right) . \end{aligned}$
+$\square $
+</p>
+</sec>
+<sec>
+<p id="Par156">For $(a_0,a_1,a_2)=(1,\alpha _1,\alpha _2)$
+ this confirms the values in Table <xref rid="Tab1" ref-type="table">1</xref>
+.</p>
+</sec>
+
+
+<sec id="FPar32"><title>Remark 8.4</title>
+
+<p id="Par157">Consider the possible values of <italic>d</italic>
+ for which there exists, according to Table <xref rid="Tab1" ref-type="table">1</xref>
+, a positive <italic>d</italic>
+-section for the Seifert fibration of $S^3$
+ defined by ($A_{1,2}$
+). By Lemma <xref rid="FPar28" ref-type="">8.1</xref>
+, any such <italic>d</italic>
+ can be realised as the degree of a weighted homogeneous polynomial <italic>F</italic>
+ of the form (<xref rid="Equ6" ref-type="disp-formula">6</xref>
+). Hence, the algebraic curve $\{F=0\}$
+ in ${\mathbb {P}}(1,\alpha _1,\alpha _2)$
+ gives rise to a <italic>d</italic>
+-section with the chosen value of <italic>d</italic>
+. By the uniqueness statement in Theorem <xref rid="FPar11" ref-type="">5.4</xref>
+, this means that <italic>every</italic>
+ surface of section for any Seifert fibration of $S^3$
+ comes from an algebraic curve $\{F=0\}\subset {\mathbb {P}}(1,\alpha _1,\alpha _2)$
+ with <italic>F</italic>
+ as in (<xref rid="Equ6" ref-type="disp-formula">6</xref>
+).</p>
+</sec>
+<sec>
+<p id="Par158">Conversely, the arguments in Sect. <xref rid="Sec25" ref-type="sec">7.3</xref>
+—applied to coverings of algebraic surfaces as explained in Sect. <xref rid="Sec32" ref-type="sec">8.3</xref>
+—provide an alternative proof of Theorem <xref rid="FPar31" ref-type="">8.3</xref>
+ in the case $a_0=1$
+ and for such special algebraic curves; the latter restriction can be removed with genericity arguments as in [<xref ref-type="bibr" rid="CR1">1</xref>
+, Section 6].</p>
+</sec>
+<sec>
+<p id="Par159">It seems plausible that the reasoning in Sect. <xref rid="Sec25" ref-type="sec">7.3</xref>
+ can be extended to a geometric proof of Theorem <xref rid="FPar31" ref-type="">8.3</xref>
+ in full generality.</p>
+</sec>
+</sec>
+</sec>
+</body>
+<back><ack><title>Acknowledgements</title>
+<p>We are grateful to Christian Lange and Umberto Hryniewicz for their interest in this work. Their questions and comments have contributed significantly to the writing of this paper. The anonymous referee made useful suggestions for improving the exposition.</p>
+</ack>
+<sec><title>Funding</title>
+<p>Open Access funding enabled and organized by Projekt DEAL.</p>
+</sec>
+<ref-list id="Bib1"><title>References</title>
+<ref-list><ref id="CR1"><label>1.</label>
+<mixed-citation publication-type="other">Albers, P., Geiges, H., Zehmisch, K.: A symplectic dynamics proof of the degree-genus formula. <ext-link xlink:href="http://arxiv.org/abs/1905.03054" ext-link-type="url">arXiv:1905.03054</ext-link>
+</mixed-citation>
+</ref>
+<ref id="CR2"><label>2.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Epstein</surname>
+<given-names>DBA</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Periodic flows on $3$
+-manifolds</article-title>
+<source>Ann. Math. (2)</source>
+<year>1972</year>
+<volume>95</volume>
+<fpage>66</fpage>
+<lpage>82</lpage>
+<pub-id pub-id-type="amsid">288785</pub-id>
+<pub-id pub-id-type="doi">10.2307/1970854</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR3"><label>3.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Geiges</surname>
+<given-names>H</given-names>
+</name>
+<name><surname>Lange</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Seifert fibrations of lens spaces</article-title>
+<source>Abh. Math. Sem. Univ. Hambg.</source>
+<year>2018</year>
+<volume>88</volume>
+<fpage>1</fpage>
+<lpage>22</lpage>
+<pub-id pub-id-type="amsid">3785783</pub-id>
+<pub-id pub-id-type="doi">10.1007/s12188-017-0188-z</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR4"><label>4.</label>
+<mixed-citation publication-type="other">Geiges, H., Lange, C.: Correction to: Seifert fibrations of lens spaces. Abh. Math. Sem. Univ. Hambg. <bold>(to appear)</bold>
+</mixed-citation>
+</ref>
+<ref id="CR5"><label>5.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Ginzburg</surname>
+<given-names>VL</given-names>
+</name>
+<name><surname>Gurel</surname>
+<given-names>BZ</given-names>
+</name>
+<name><surname>Mazzucchelli</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">On the spectral characterization of Besse and Zoll Reeb flows</article-title>
+<source>Ann. Inst. H. Poincaré Anal. Non Linéaire</source>
+<year>2021</year>
+<volume>38</volume>
+<fpage>549</fpage>
+<lpage>576</lpage>
+<pub-id pub-id-type="amsid">4227045</pub-id>
+<pub-id pub-id-type="doi">10.1016/j.anihpc.2020.08.004</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR6"><label>6.</label>
+<mixed-citation publication-type="other">Hosgood, T.: An introduction to varieties in weighted projective space. <ext-link xlink:href="http://arxiv.org/abs/1604.02441v5" ext-link-type="url">arXiv:1604.02441v5</ext-link>
+</mixed-citation>
+</ref>
+<ref id="CR7"><label>7.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Hryniewicz</surname>
+<given-names>UL</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Systems of global surfaces of section for dynamically convex Reeb flows on the $3$
+-sphere</article-title>
+<source>J. Symplectic Geom.</source>
+<year>2014</year>
+<volume>12</volume>
+<fpage>791</fpage>
+<lpage>862</lpage>
+<pub-id pub-id-type="amsid">3333029</pub-id>
+<pub-id pub-id-type="doi">10.4310/JSG.2014.v12.n4.a5</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR8"><label>8.</label>
+<mixed-citation publication-type="other">Hryniewicz, U.L., Salomão, P.A.S., Siefring, R.: Global surfaces of section with positive genus for dynamically convex Reeb flows. J. Fixed Point Theory Appl. <bold>(to appear)</bold>
+</mixed-citation>
+</ref>
+<ref id="CR9"><label>9.</label>
+<mixed-citation publication-type="other">Hryniewicz, U.L., Salomão, P.A.S., Wysocki, K.: Genus zero global surfaces of section for Reeb flows and a result of Birkhoff. <ext-link xlink:href="http://arxiv.org/abs/1912.01078" ext-link-type="url">arXiv:1912.01078</ext-link>
+</mixed-citation>
+</ref>
+<ref id="CR10"><label>10.</label>
+<mixed-citation publication-type="other">Jankins, M., Neumann, W. D.: Lectures on Seifert Manifolds, Brandeis Lecture Notes, vol. 2. Brandeis University, Waltham (1983). <ext-link xlink:href="http://www.math.columbia.edu/%7eneumann/preprints/" ext-link-type="url">http://www.math.columbia.edu/~neumann/preprints/</ext-link>
+</mixed-citation>
+</ref>
+<ref id="CR11"><label>11.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kegel</surname>
+<given-names>M</given-names>
+</name>
+<name><surname>Lange</surname>
+<given-names>C</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">A Boothby–Wang theorem for Besse contact manifolds</article-title>
+<source>Arnold Math. J.</source>
+<year>2021</year>
+<volume>7</volume>
+<fpage>225</fpage>
+<lpage>241</lpage>
+<pub-id pub-id-type="amsid">4260074</pub-id>
+<pub-id pub-id-type="doi">10.1007/s40598-020-00165-5</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR12"><label>12.</label>
+<mixed-citation publication-type="other">Kim, J., Kim, Y., van Koert, O.: Reeb flows without simple global surfaces of section. <ext-link xlink:href="http://arxiv.org/abs/2104.03728" ext-link-type="url">arXiv:2104.03728</ext-link>
+</mixed-citation>
+</ref>
+<ref id="CR13"><label>13.</label>
+<mixed-citation publication-type="other">Kirwan, F.: Complex Algebraic Curves, London Math. Soc. Stud. Texts, vol. 23. Cambridge University Press, Cambridge (1992)</mixed-citation>
+</ref>
+<ref id="CR14"><label>14.</label>
+<mixed-citation publication-type="other">van Koert, O.: A Reeb flow on the three-sphere without a disk-like global surface of section. Qual. Theory Dyn. Syst. <bold>19</bold>
+ (2020), Paper No. 36, 16 pp</mixed-citation>
+</ref>
+<ref id="CR15"><label>15.</label>
+<mixed-citation publication-type="other">Mazzucchelli, M., Radeschi, M.: On the structure of Besse convex contact spheres. <ext-link xlink:href="http://arxiv.org/abs/2012.05389" ext-link-type="url">arXiv:2012.05389</ext-link>
+</mixed-citation>
+</ref>
+<ref id="CR16"><label>16.</label>
+<mixed-citation publication-type="other">Orlik, P., Wagreich, P.: Equivariant resolution of singularities with ${\mathbb{C}}^*$
+ action. In: Proceedings of the Second Conference on Compact Transformation Groups (Amherst, 1971), Part I, Lecture Notes in Math., vol. 298. Springer, Berlin, pp. 270–290 (1972)</mixed-citation>
+</ref>
+<ref id="CR17"><label>17.</label>
+<mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Rolfsen</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<source>Knots and Links, Mathematics Lecture Series</source>
+<year>1976</year>
+<publisher-loc>Berkeley</publisher-loc>
+<publisher-name>Publish or Perish</publisher-name>
+<pub-id pub-id-type="zbl">0339.55004</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR18"><label>18.</label>
+<mixed-citation publication-type="other">Salomão, P.A.S., Hryniewicz, U.L.: Global surfaces of section for Reeb flows in dimension three and beyond. In: Proceedings of the International Congress of Mathematicians (Rio de Janeiro, 2018), vol. II, World Sci. Publ., Hackensack, pp. 941–967 (2018)</mixed-citation>
+</ref>
+<ref id="CR19"><label>19.</label>
+<mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Saveliev</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<source>Lectures on the Topology of $3$
+-Manifolds</source>
+<year>1999</year>
+<publisher-loc>Berlin</publisher-loc>
+<publisher-name>Walter de Gruyter</publisher-name>
+<pub-id pub-id-type="doi">10.1515/9783110806359</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</ref-list>
+<notes notes-type="Misc"><title>Publisher's Note</title>
+<p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+</notes>
+</back>
+</article>
+

@@ -1,0 +1,1050 @@
+/<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE article SYSTEM "http://jats.nlm.nih.gov/archiving/1.2/JATS-archivearticle1.dtd"><article xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink" dtd-version="1.2" article-type="research-article" xml:lang="en"><front><journal-meta><journal-id journal-id-type="publisher-id">40598</journal-id>
+<journal-title-group><journal-title>Arnold Mathematical Journal</journal-title>
+<abbrev-journal-title abbrev-type="publisher">Arnold Math J.</abbrev-journal-title>
+</journal-title-group>
+<issn pub-type="ppub">2199-6792</issn>
+<issn pub-type="epub">2199-6806</issn>
+<publisher><publisher-name>Springer International Publishing</publisher-name>
+<publisher-loc>Cham</publisher-loc>
+</publisher>
+</journal-meta>
+<article-meta><article-id pub-id-type="publisher-id">s40598-022-00212-3</article-id>
+<article-id pub-id-type="manuscript">212</article-id>
+<article-id pub-id-type="doi">10.1007/s40598-022-00212-3</article-id>
+<article-categories><subj-group subj-group-type="heading"><subject>Research Contribution</subject>
+</subj-group>
+</article-categories>
+<title-group><article-title xml:lang="en">Nontrivial Topological Quandles</article-title>
+</title-group>
+<contrib-group><contrib contrib-type="author" corresp="yes" id="Au1"><contrib-id contrib-id-type="orcid">http://orcid.org/0000-0003-0798-7218</contrib-id>
+<name><surname>Tsvelikhovskiy</surname>
+<given-names>Boris</given-names>
+</name>
+<xref ref-type="aff" rid="Aff1">1</xref>
+<xref ref-type="corresp" rid="IDs40598022002123_cor1">a</xref>
+</contrib>
+<aff id="Aff1"><label>1</label>
+<institution-wrap><institution-id institution-id-type="GRID">grid.21925.3d</institution-id>
+<institution-id institution-id-type="ISNI">0000 0004 1936 9000</institution-id>
+<institution content-type="org-division">Department of Mathematics</institution>
+<institution content-type="org-name">University of Pittsburgh</institution>
+</institution-wrap>
+<addr-line content-type="postcode">15260</addr-line>
+<addr-line content-type="city">Pittsburgh</addr-line>
+<country country="US">USA</country>
+</aff>
+</contrib-group>
+<author-notes><corresp id="IDs40598022002123_cor1"><label>a</label>
+<email>bdt18@pitt.edu</email>
+</corresp>
+</author-notes>
+<pub-date date-type="pub" publication-format="electronic"><day>12</day>
+<month>7</month>
+<year>2022</year>
+</pub-date>
+<pub-date date-type="pub" publication-format="print"><month>10</month>
+<year>2022</year>
+</pub-date>
+<volume>8</volume>
+<issue seq="9">3-4</issue>
+<fpage>535</fpage>
+<lpage>542</lpage>
+<history><date date-type="registration"><day>23</day>
+<month>6</month>
+<year>2022</year>
+</date>
+<date date-type="received"><day>14</day>
+<month>1</month>
+<year>2022</year>
+</date>
+<date date-type="rev-recd"><day>17</day>
+<month>4</month>
+<year>2022</year>
+</date>
+<date date-type="accepted"><day>21</day>
+<month>6</month>
+<year>2022</year>
+</date>
+<date date-type="online"><day>12</day>
+<month>7</month>
+<year>2022</year>
+</date>
+</history>
+<permissions><copyright-statement>© Institute for Mathematical Sciences (IMS), Stony Brook University, NY 2022</copyright-statement>
+<copyright-year>2022</copyright-year>
+</permissions>
+<abstract id="Abs1" xml:lang="en"><title>Abstract</title>
+
+<p id="Par1">We show that there are infinitely many nonisomorphic quandle structures on any topogical space $X$
+ of positive dimension. In particular, we disprove Conjecture 5.2 in Cheng et al. (Topology Appl 248:64–74, 2018), asserting that there are no nontrivial quandle structures on the closed unit interval [0, 1].</p>
+</abstract>
+<kwd-group xml:lang="en"><title>Keywords</title>
+<kwd>Quandle</kwd>
+<kwd>Topological quandle structure</kwd>
+</kwd-group>
+<custom-meta-group><custom-meta><meta-name>publisher-imprint-name</meta-name>
+<meta-value>Springer</meta-value>
+</custom-meta>
+<custom-meta><meta-name>volume-issue-count</meta-name>
+<meta-value>4</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-article-count</meta-name>
+<meta-value>11</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-toc-levels</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-pricelist-year</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-copyright-holder</meta-name>
+<meta-value>Institute for Mathematical Sciences (IMS), Stony Brook University, NY</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-copyright-year</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-contains-esm</meta-name>
+<meta-value>No</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-numbering-style</meta-name>
+<meta-value>ContentOnly</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-registration-date-year</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-registration-date-month</meta-name>
+<meta-value>6</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-registration-date-day</meta-name>
+<meta-value>23</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-toc-levels</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta><meta-name>toc-levels</meta-name>
+<meta-value>0</meta-value>
+</custom-meta>
+<custom-meta><meta-name>volume-type</meta-name>
+<meta-value>Regular</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-product</meta-name>
+<meta-value>ArchiveJournal</meta-value>
+</custom-meta>
+<custom-meta><meta-name>numbering-style</meta-name>
+<meta-value>ContentOnly</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-grants-type</meta-name>
+<meta-value>Regular</meta-value>
+</custom-meta>
+<custom-meta><meta-name>metadata-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>abstract-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>bodypdf-grant</meta-name>
+<meta-value>Restricted</meta-value>
+</custom-meta>
+<custom-meta><meta-name>bodyhtml-grant</meta-name>
+<meta-value>Restricted</meta-value>
+</custom-meta>
+<custom-meta><meta-name>bibliography-grant</meta-name>
+<meta-value>Restricted</meta-value>
+</custom-meta>
+<custom-meta><meta-name>esm-grant</meta-name>
+<meta-value>OpenAccess</meta-value>
+</custom-meta>
+<custom-meta><meta-name>online-first</meta-name>
+<meta-value>false</meta-value>
+</custom-meta>
+<custom-meta><meta-name>pdf-file-reference</meta-name>
+<meta-value>BodyRef/PDF/40598_2022_Article_212.pdf</meta-value>
+</custom-meta>
+<custom-meta><meta-name>pdf-type</meta-name>
+<meta-value>Typeset</meta-value>
+</custom-meta>
+<custom-meta><meta-name>target-type</meta-name>
+<meta-value>OnlinePDF</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-online-date-year</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-online-date-month</meta-name>
+<meta-value>10</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-online-date-day</meta-name>
+<meta-value>27</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-print-date-year</meta-name>
+<meta-value>2022</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-print-date-month</meta-name>
+<meta-value>10</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-print-date-day</meta-name>
+<meta-value>27</meta-value>
+</custom-meta>
+<custom-meta><meta-name>issue-type</meta-name>
+<meta-value>Combined</meta-value>
+</custom-meta>
+<custom-meta><meta-name>article-type</meta-name>
+<meta-value>OriginalPaper</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-subject-primary</meta-name>
+<meta-value>Mathematics</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-subject-secondary</meta-name>
+<meta-value>Mathematics, general</meta-value>
+</custom-meta>
+<custom-meta><meta-name>journal-subject-collection</meta-name>
+<meta-value>Mathematics and Statistics</meta-value>
+</custom-meta>
+<custom-meta><meta-name>open-access</meta-name>
+<meta-value>false</meta-value>
+</custom-meta>
+</custom-meta-group>
+</article-meta>
+</front>
+<body><sec depth="1" id="Sec1"><title>1 Introduction</title>
+
+<p id="Par2">Quandles are generally non-associative algebraic structures (the exception being the trivial quandles). They were introduced independently in the 1980’s by Joyce [<xref ref-type="bibr" rid="CR10">10</xref>
+] and Matveev [<xref ref-type="bibr" rid="CR13">13</xref>
+] with the purpose of constructing invariants of knots in the three space and knotted surfaces in four space. However, the notion of a quandle can be traced back to the 1940’s in the work of Mituhisa Takasaki [<xref ref-type="bibr" rid="CR15">15</xref>
+]. The three axioms of a quandle algebraically encode the three Reidemeister moves in classical knot theory. For a recent treatment of quandles see [<xref ref-type="bibr" rid="CR8">8</xref>
+]. Joyce and Matveev introduced the notion of the fundamental quandle of a knot and gave a theorem that translates the problem of knot equivalence to the problem of isomorphism of their fundamental quandles. Precisely, two knots $K_1$
+ and $K_2$
+ are equivalent (up to reverse and mirror image) if and only if the fundamental quandles $Q(K_1)$
+ and $Q(K_2)$
+ are isomorphic.</p>
+
+<p id="Par3">Recently, there have been investigations of quandles from the algebraic point of view and their relations to other algebraic structures such as Lie algebras [<xref ref-type="bibr" rid="CR4">4</xref>
+, <xref ref-type="bibr" rid="CR5">5</xref>
+], Leibniz algebras [<xref ref-type="bibr" rid="CR11">11</xref>
+, <xref ref-type="bibr" rid="CR12">12</xref>
+], Frobenius algebras and Yang Baxter equation [<xref ref-type="bibr" rid="CR3">3</xref>
+], Hopf algebras [<xref ref-type="bibr" rid="CR1">1</xref>
+], transitive groups [<xref ref-type="bibr" rid="CR16">16</xref>
+], quasigroups and Moufang loops [<xref ref-type="bibr" rid="CR9">9</xref>
+], ring theory [<xref ref-type="bibr" rid="CR2">2</xref>
+, <xref ref-type="bibr" rid="CR7">7</xref>
+] etc.</p>
+
+<p id="Par4">The notion of topological quandles was introduced by Rubinsztein in [<xref ref-type="bibr" rid="CR14">14</xref>
+]. A <italic>topological rack</italic>
+ is a topological space $X$
+ with a binary operation $f(x,y): X \times X \rightarrow X$
+, s.t. $f$
+($x$
+, $y$
+) is continuous with respect to the topological structure, the right multiplication $R_x: X\rightarrow X, y \mapsto f(y,x)$
+ is a homeomorphism for any $x\in X$
+, and which satisfies the right distributivity $f(f(x,y),z)=f(f(x,z),f(y,z)) ~ \forall x, y, z \in X$
+. The initial paper contained plenty of examples of such structures (see examples $2.1-2.8$
+ therein). Using the action of the braid group $B_n$
+ on the cartesian product of $n$
+ copies of a topological quandle ($Q$
+, $f$
+) defined on the generators $\sigma _{i}\in B_n$
+ via $\sigma _{i}(x_1,\ldots x_n)=(x_1,\ldots , x_i,f(x_i,x_{i+1}) ,x_{i+2}\ldots ,x_n)$
+, the author associates the space $J_{(Q,f)}(L)$
+ of fixed points under the action of the braid $\sigma \in B_n$
+ for the element $\sigma $
+ corresponding to the oriented link $L$
+. The main result of the paper was that for every topological quandle $Q$
+, the space $J_{(Q,f)}(L)$
+ for an oriented link $L$
+ depends only on the isotopy class of $L$
+. (see Sections 3, 4 of Rubinsztein [<xref ref-type="bibr" rid="CR14">14</xref>
+] for details).</p>
+
+<p id="Par5">The goal of this paper is to show how to produce topological quandle structures on topological manifolds.</p>
+
+<p id="Par6">Our exposition is organized as follows. In Sect. <xref rid="Sec2" ref-type="sec">2</xref>
+ we recall the definition and basic concepts of quandles with examples. The core of the paper is Sect. <xref rid="Sec3" ref-type="sec">3</xref>
+, where, after recalling the generalities on topological quandles, we explain a construction, which produces nontrivial topological quandle structures on topological manifolds. Applying this construction allows to obtain such structures on the closed interval [0, 1] and, using that any two closed intervals are homeomorphic, on any closed interval [$a$
+, $b$
+]. In particular, this implies that the conjecture that the only quandle operation on a closed interval is the trivial one was wrong (Conjecture 5.2 arisen in [<xref ref-type="bibr" rid="CR6">6</xref>
+]). Furthermore, it is shown that there are infinitely many nonisomorphic topological quandle structures on the closed interval and, in general, on any topological manifold of dimension greater than zero.</p>
+
+<p id="Par7">In Sect. 4, we make concluding remarks and propose possible directions for further investigation of the subject.</p>
+</sec>
+<sec depth="1" id="Sec2"><title>2 Review of Quandles</title>
+<sec depth="2">
+<p id="Par8">We start this section by giving the basics of quandles with examples.</p>
+</sec>
+<sec depth="2" id="FPar1"><title>Definition 2.1</title>
+
+<p id="Par9">A <italic>quandle</italic>
+ is a pair $(X,\triangleright )$
+ consisting of a set $X$
+ with a binary operation $(a, b) \mapsto a \triangleright b$
+ such that the following properties hold. <list list-type="order"><list-item>
+<p id="Par10">For any $a \in X$
+, $a\triangleright a =a$
+.</p>
+</list-item>
+<list-item>
+<p id="Par11">For any $a,b \in X$
+, there is a unique $c \in X$
+ such that $a= c\triangleright b$
+.</p>
+</list-item>
+<list-item>
+<p id="Par12">For any $a,b,c \in X$
+, we have $ (a \triangleright b) \triangleright c=(a\triangleright c)\triangleright (b\triangleright c). $
+</p>
+</list-item>
+</list>
+</p>
+</sec>
+<sec depth="2">
+<p id="Par13">A <italic>rack</italic>
+ is a set with a binary operation that satisfies (2) and (3). Racks and quandles have been studied extensively in, for example, [<xref ref-type="bibr" rid="CR10">10</xref>
+, <xref ref-type="bibr" rid="CR13">13</xref>
+]. For more details on racks and quandles see the book [<xref ref-type="bibr" rid="CR8">8</xref>
+].</p>
+</sec>
+<sec depth="2">
+<p id="Par14">The following are typical examples of quandles:<list list-type="bullet"><list-item>
+<p id="Par15">A group $G$
+ with conjugation as the quandle operation: $a \triangleright b = b^{-1} a b$
+, denoted by $X=$
+ Conj($G$
+), is a quandle.</p>
+</list-item>
+<list-item>
+<p id="Par16">Any subset of $G$
+ that is closed under such conjugation is also a quandle. More generally if $G$
+ is a group, $H$
+ is a subgroup, and $\sigma $
+ is an automorphism that fixes the elements of $H$
+ (<italic>i.e.</italic>
+$\sigma (h)=h \ \forall h \in H$
+), then $G$
+/$H$
+ is a quandle with $\triangleright $
+ defined by $Ha\triangleright Hb=H \sigma (ab^{-1})b.$
+</p>
+</list-item>
+<list-item>
+<p id="Par17">Any ${{\mathbb {Z}}}[t, t^{-1}]$
+-module $M$
+ is a quandle with $a\triangleright b=ta+(1-t)b$
+, for $a,b \in M$
+, and is called an <italic>Alexander quandle</italic>
+.</p>
+</list-item>
+<list-item>
+<p id="Par18">Let $n$
+ be a positive integer, and for elements $i, j \in {\mathbb {Z}}_n$
+, define $i\triangleright j = 2j-i \pmod {n}$
+. Then $\triangleright $
+ defines a quandle structure called the <italic>dihedral quandle</italic>
+, and denoted by $R_n$
+, that coincides with the set of reflections in the dihedral group with composition given by conjugation.</p>
+</list-item>
+<list-item>
+<p id="Par19">Any group $G$
+ with the quandle operation: $a \triangleright b = ba^{-1} b$
+ is a quandle called Core(G).</p>
+</list-item>
+</list>
+The notions of quandle homomorphims and automorphisms are defined in a standard way. Let $X$
+ be a quandle, thus the second axiom of Definition <xref rid="FPar1" ref-type="">2.1</xref>
+ makes any right multiplication by an element of $X$
+, $R_x: y \mapsto y \triangleright x$
+, into a bijection. The third axiom of Definition <xref rid="FPar1" ref-type="">2.1</xref>
+ makes $R_x$
+ into a homomorphism and thus an automorphism. Let <italic>Aut</italic>
+($X$
+) denote the group of all automorphisms of $X$
+ and let $Inn(X):=\langle R_x, \; x \in X\rangle $
+ denote the subgroup generated by right multiplications. The quandle $X$
+ is <italic>connected</italic>
+ if the group <italic>Inn</italic>
+($X$
+) acts transitively on $X$
+, that is, there is only one orbit.</p>
+</sec>
+</sec>
+<sec depth="1" id="Sec3"><title>3 Quandle Structures on Topological Manifolds</title>
+  
+<sec depth="2" id="FPar2"><title>Definition 3.1</title>
+
+<p id="Par20">A <italic>topological rack</italic>
+$X$
+ is a topological space $X$
+ with a binary operation $f(x,y): X \times X \rightarrow X$
+, s.t. $f$
+($x$
+, $y$
+) is continuous with respect to the topological structure, the right multiplication $R_x: X\rightarrow X, y \mapsto f(y,x)$
+ is a homeomorphism for any $x\in X$
+, and which satisfies the right distributivity:
+$$\begin{aligned} f(f(x,y),z)=f(f(x,z),f(y,z)) ~ \forall x, y, z \in X. \end{aligned}$$ <div  class="c-article-equation">1</div>
+
+If, in addition, $f(x,x)=x$
+ for each $x\in X$
+, then we say that $X$
+ is a <italic>topological quandle</italic>
+ (see examples $2.1-2.8$
+ in Rubinsztein [<xref ref-type="bibr" rid="CR14">14</xref>
+]).</p>
+</sec>
+<sec depth="2">
+<p id="Par21">Next we will present (nontrivial) topological quandle structures on the unit interval [0, 1]. Let us explain one method how to construct such structures in general. Let $X$
+ be a topological space with two subspaces $X_1, X_2\subset X$
+, such that $X=X_1 \cup X_2$
+. The quandle operation is trivial ($f(x,y)=x$
+) if both points $x$
+, $y$
+ are in $X_1$
+ or in $X_2$
+ or $x \in X_1$
+ and $y \in X_2$
+. Suppose there exists a map $\varphi : X_2 \rightarrow Homeo(X_1)$
+, s.t. the image of $\varphi $
+ is a nontrivial commutative subgroup under composition. In addition, $\varphi (y) = id$
+, whenever $y\in X_1 \cap X_2$
+ and the function $R_{y}:X\rightarrow X$
+ given by
+$$\begin{aligned} R_{y}(x)={\left\{ \begin{array}{ll} x, \hbox { for } x \in X_2 \\ (\varphi (y))(x) \hbox { for } x \in X_1 \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">2</div>
+
+is continuous. Then the function $\psi : X\times X\rightarrow X$
+ given by
+$$\begin{aligned} \psi (x,y):={\left\{ \begin{array}{ll} x, \hbox { for } x,y \in X_1 \hbox { or } x, y \in X_2 \hbox { or } y \in X_1 \hbox { and } x \in X_2\\ (\varphi (y))(x) \hbox { for } x \in X_1 \hbox { and } y\in X_2, \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">3</div>
+
+provided it is continuous, produces a nontrivial topological quandle structure on $X$
+. Theorem <xref rid="FPar4" ref-type="">3.3</xref>
+ below is an instance of this construction for $X=[0,1]$
+ with $X_1=[0,\frac{1}{2}]$
+ and $X_2=[\frac{1}{2},1]$
+. Verification that a function, which has the properties described above, satisfies the axioms of Definition <xref rid="FPar2" ref-type="">3.1</xref>
+ for general $X$
+ is completely analogous (Fig. <xref rid="Fig1" ref-type="fig">1</xref>
+).</p>
+</sec>
+<sec depth="2" id="FPar3"><title>Remark 3.2</title>
+
+<p id="Par22">Any quandle $X$
+ can be made into a topological quandle using the discrete topology on $X$
+.</p>
+</sec>
+<sec depth="2">
+<p id="Par23">Henceforth, by $\varepsilon $
+ we understand a number between 0 and $\frac{1}{2}$
+ (unless explicitly specified otherwise).</p>
+</sec>
+<sec depth="2" id="FPar4"><title>Theorem 3.3</title>
+
+<p id="Par24">The function $f:[0,1]\times [0,1]\rightarrow [0,1]$
+ given by
+$$\begin{aligned} f(x,y):={\left\{ \begin{array}{ll} x, \hbox { for } y\le \frac{1}{2} \hbox { and } x \in [0,1] \hbox { or } x \ge \frac{1}{2} \hbox { and } y \in [0,1] \\ \frac{1}{2}(2x)^{1+\varepsilon } \hbox { for } y = \frac{1}{2}+\varepsilon \hbox { and } x\le \frac{1}{2} \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">4</div>
+
+provides a topological quandle structure on the unit interval [0, 1].</p>
+</sec>
+<sec depth="2">
+<p id="Par25"><fig id="Fig1"><label>Fig. 1</label>
+<caption xml:lang="en">
+<p>Graphs of $f$
+($x$
+, $y$
+) as functions of $x$
+ for different values of $y$
+</p>
+</caption>
+
+<p><graphic specific-use="HTML" mime-subtype="PNG" xlink:href="MediaObjects/40598_2022_212_Fig1_HTML.png" id="MO5"/></p>
+</fig>
+</p>
+</sec>
+<sec depth="2" id="FPar5"><title>Proof</title>
+
+<p id="Par26">The properties that $f$
+($x$
+, $y$
+) is continuous and the right multiplication by $x$
+ is a homeomorphism for any $x\in [0,1]$
+ are straightforward consequences of the definition of $f$
+($x$
+, $y$
+). Since $\forall x \in [0,1]$
+ one of the requirements $x\ge \frac{1}{2}$
+ or $x\le \frac{1}{2}$
+ is satisfied, we always have $f(x,x)=x$
+. Hence, it remains to check distributivity (<xref rid="Equ1" ref-type="disp-formula">1</xref>
+). Notice that $z\le \frac{1}{2}$
+ implies $f(f(x,y),z)=f(x,y)$
+ with $f(x,z)=x$
+ and $f(y,z)=y$
+ providing $f(f(x,z),f(y,z))=f(x,y)$
+, thus, confirming the equality (<xref rid="Equ1" ref-type="disp-formula">1</xref>
+). For $z&gt;\frac{1}{2}$
+ it is convenient to do the case by case verification. <def-list><def-item><term><bold>Case 1</bold>
+:</term>
+<def>
+<p id="Par27">both $x,y \ge \frac{1}{2} $
+. Then $f(f(x,y),z)=f(x,z)=x$
+ and $f(f(x,z),f(y,z))=f(x,y)=x$
+.</p>
+</def>
+</def-item>
+<def-item><term><bold>Case 2</bold>
+:</term>
+<def>
+<p id="Par28">both $x,y &lt; \frac{1}{2}$
+. Then, using that $y &lt; \frac{1}{2}$
+, write $f(f(x,y),z)=f(x,z)$
+, while $f(f(x,z),f(y,z))=f(x,z)$
+, as $f(y,z)\le y &lt; \frac{1}{2}$
+.</p>
+</def>
+</def-item>
+<def-item><term><bold>Case 3</bold>
+:</term>
+<def>
+<p id="Par29">$x &gt; \frac{1}{2}$
+ and $y &lt; \frac{1}{2}$
+. Then $f(f(x,y),z)=f(x,z)=x$
+, while $f(f(x,z),f(y,z))=f(x,f(y,z))=x$
+, where all equalities hold since $x &gt; \frac{1}{2}$
+.</p>
+</def>
+</def-item>
+<def-item><term><bold>Case 4</bold>
+:</term>
+<def>
+<p id="Par30">$x &lt; \frac{1}{2}$
+ and $y &gt; \frac{1}{2}$
+. Using that $y &gt; \frac{1}{2}$
+, we obtain the equality $f(f(x,z),f(y,z))=f(f(x,z),y)$
+. This allows to rewrite (<xref rid="Equ1" ref-type="disp-formula">1</xref>
+) as 
+$$\begin{aligned} f(f(x,y),z)=f(f(x,z),y) ~ \forall x, y, z \in X. \end{aligned}$$ <div  class="c-article-equation">5</div>
+
+ We write $y=\frac{1}{2}+\varepsilon '$
+ for some $0&lt;\varepsilon '\le \frac{1}{2}$
+. Similarly, as $z&gt;\frac{1}{2}$
+, we will write $z=\frac{1}{2}+\varepsilon $
+ for some $0&lt;\varepsilon \le \frac{1}{2}$
+. We see that both sides of (<xref rid="Equ5" ref-type="disp-formula">5</xref>
+) are equal to $ \frac{1}{2}(2x)^{(1+\varepsilon )(1+\varepsilon ')}$
+.$\square $
+</p>
+</def>
+</def-item>
+</def-list>
+</p>
+</sec>
+<sec depth="2" id="FPar6"><title>Remark 3.4</title>
+
+<p id="Par31">Instead of $1+\varepsilon $
+ one can use any continuous function $h(\varepsilon )$
+ with the only requirement that $x^{h(\varepsilon )}$
+ is a homeomorphism on the closed interval $[0,\frac{1}{2}]$
+ for any $\varepsilon \in [0,\frac{1}{2}]$
+. Recall that every element of the group <italic>Homeo</italic>
+([0, 1]) either preserves the endpoints 0 and 1 or switches them. The subgroup of homeomorphisms that preserve the endpoints is denoted by $Homeo^+([0,1])$
+. For any quandle structure on the interval [0, 1], one has $R_x \in Homeo^{+}([0,1])$
+ for every $x \in [0,1]$
+ (see Sect. 5.1 in [<xref ref-type="bibr" rid="CR6">6</xref>
+]). This implies that the endpoints of the interval, 0 and 1, are orbits.</p>
+</sec>
+<sec depth="2" id="FPar7"><title>Remark 3.5</title>
+
+<p id="Par32">The function $f_{[a,b]}:[a,b]\times [a,b]\rightarrow [a,b]$
+ given by
+$$\begin{aligned} f_{[a,b]}(x,y):={\left\{ \begin{array}{ll} x, \hbox { for } a\le y\le a+\frac{b-a}{2} \hbox { and } x \in [a,b] \hbox { or } \frac{(a+b)}{2}\\ \le x\le b\hbox { and } y \in [a,b] \\ a+\frac{b-a}{2}\left( \frac{2}{b-a}(x-a)\right) ^{1+\varepsilon } \hbox { for } y = \frac{a+b}{2} +\varepsilon \hbox { and } a\le x\le \frac{a+b}{2} \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">6</div>
+
+provides a topological quandle structure on the closed interval [$a$
+, $b$
+]. We will also need a slight modification of this function for an open interval $(-1,1)$
+ given by
+$$\begin{aligned} g_{(-1,1)}(x,y):={\left\{ \begin{array}{ll} x, \hbox { for } -1&lt; y\le 0 \hbox { and } x \in (-1,1) \hbox { or }0\\ \le x&lt; 1 \hbox { and } y \in (-1,1) \\ -1+(x+1)^{1+y(1-y)} \hbox { for } y &gt; 0, x \in (-1,0), \\ \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">7</div>
+
+and, more generally, for $B^{\circ }$
+ an open unit ball in ${\mathbb {R}}^n$
+
+$$\begin{aligned} \Omega _{B^{\circ }}(x,y):={\left\{ \begin{array}{ll} x, \hbox { for } -1&lt; y_1\le 0 \hbox { and } x_1 \in (-1,1) \hbox { or }0\\ \le x_1&lt; 1 \hbox { and } y_1 \in (-1,1) \\ \left( -1+(x_1+1)^{1+y_1\left( 1-\sum \nolimits _{i=1}^n y_i^2\right) \left( 1-\sum \nolimits _{i=1}^n x_i^2\right) },x_2,\ldots , x_n\right) \\ \hbox { for } y_1 &gt; 0, x_1 \in (-1,0) \\ \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">8</div>
+
+yields a topological quandle structure with $f(x,y) \rightarrow x$
+ as $x$
+ or $y$
+ approach the boundary of the unit ball $\partial B^{\circ }$
+. Furthermore, choosing a homeomorphism $B^{\circ } \rightarrow B_{p,r}^{\circ }$
+ yields a topological quandle structure on an open ball $B_{p,r}^{\circ }$
+ of radius $r$
+ centered at $p$
+ with $f(x,y) \rightarrow x$
+ as $x$
+ or $y$
+ approach the boundary $\partial B_{p,r}^{\circ }$
+. We will denote the corresponding topological quandle by $(B_{p,r}^{\circ },\Omega _{B_{p,r}^{\circ }}(x,y))$
+.</p>
+</sec>
+<sec depth="2" id="FPar8"><title>Theorem 3.6</title>
+
+<p id="Par33">There are infinitely many nontrivial nonisomorphic topological quandle structures on a closed interval [$a$
+, $b$
+] and on the open unit ball $B^{\circ }$
+.</p>
+</sec>
+<sec depth="2" id="FPar9"><title>Proof</title>
+
+<p id="Par34">For any $n\in {\mathbb {N}}$
+ consider the points $x_k:=a+\frac{k(b-a)}{n}$
+ for $k\in \{0,1,\ldots , n-1\}$
+. Enhance each of the intervals $[x_{k},x_{k+1}]$
+ with the quandle operation provided by the function $f_{[x_{k},x_{k+1}]}$
+. Complete this to a quandle operation on [$a$
+, $b$
+] via
+$$\begin{aligned} F_n(x,y):={\left\{ \begin{array}{ll} f_{[x_{k},x_{k+1}]}(x,y), \hbox { if } x,y \in [x_{k},x_{k+1}] \hbox { for some } k\in \{1,\ldots , n-1\} \\ x, \hbox { otherwise.} \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">9</div>
+
+Notice that the set of points $X^n_{triv}:=\{x \in [a,b] | F_n(x,y)=x~ \forall y \in [a,b]\}$
+ consists of the points $\frac{x_k+x_{k+1}}{2}\le x\le x_{k+1}$
+, i.e., is a disjoint union of $n$
+ closed intervals. It is clear that for a quandle isomorphism $\varphi : ([a,b], F_s) \rightarrow ([a,b], F_k)$
+, one must have $\varphi (X^s_{triv}) = X^k_{triv}$
+, which is impossible if $k\ne s$
+, since the map $\varphi $
+ is a homeomorphism.</p>
+
+<p id="Par35">Next we verify the assertion for the open unit ball $B^{\circ }$
+. For any $n\in {\mathbb {N}}$
+ consider the points $p_k:=(-1+\frac{2k}{n},0,\ldots ,0)$
+ for $k\in \{1,\ldots , n-1\}$
+ and enhance each of the open balls $B_{p_k,\frac{1}{n}}^{\circ }$
+ with the quandle operation provided by the function $\Omega _{B_{p_k,\frac{1}{n}}^{\circ }}(x,y)$
+. Complete this to $\Omega _n(x,y)$
+, a quandle operation on $B^{\circ }$
+ as above for [$a$
+, $b$
+] (define the function to be the identity away from the union of the open balls $B_{p_k,\frac{1}{n}}^{\circ }$
+). The set of points $B^n_{nontriv}:=\{x \in B^{\circ } | \Omega _n(x,y)\ne x~ \hbox { for some }y \in B^{\circ }\}$
+ is a disjoint union of $n-1$
+ open halves of $B_{p_k,\frac{1}{n}}^{\circ }$
+’s bounded by the western hemispheres. This number is invariant under quandle isomorphisms, hence all members of the family $(B^{\circ }, \Omega _n(x,y))$
+ are pairwise nonisomorphic. $\square $
+</p>
+</sec>
+<sec depth="2" id="FPar10"><title>Corollary 3.7</title>
+
+<p id="Par36">There are infinitely many nontrivial nonisomorphic topological quandle structures on any topological manifold $X$
+ of positive dimension.</p>
+</sec>
+<sec depth="2" id="FPar11"><title>Proof</title>
+
+<p id="Par37">Let $X$
+ be a topological manifold of dimension $n&gt;0$
+ and let $U$
+ be an open subset homeomorphic to the open unit ball $B^{\circ }$
+ in ${\mathbb {R}}^n$
+. The homeomorphism will be denoted by $\varphi $
+. The function
+$$\begin{aligned} G(x,y):={\left\{ \begin{array}{ll} \varphi ^{-1}(\Omega _{B^{\circ }}(\varphi (x),\varphi (y))), \hbox { for } x,y \in U \\ x, \hbox { otherwise,} \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">10</div>
+
+where $\Omega _{B^{\circ }}$
+ is the function from Remark <xref rid="FPar7" ref-type="">3.5</xref>
+, endows $X$
+ with a topological quandle structure. Using the construction from Theorem <xref rid="FPar8" ref-type="">3.6</xref>
+, we provide infinitely many nonisomorphic topological quandle structures on $X$
+. $\square $
+</p>
+</sec>
+<sec depth="2" id="FPar12"><title>Example 3.8</title>
+
+<p id="Par38">We illustrate how to apply the preceding construction to produce a topological quandle structure on the real line ${\mathbb {R}}$
+. Consider the homeomorphism $\varphi : {\mathbb {R}} \rightarrow \left( -\frac{\pi }{2},\frac{\pi }{2}\right) $
+ given by the inverse tangent function $\varphi (x)=\arctan (x)$
+. Then the function
+$$\begin{aligned} G(x,y):={\left\{ \begin{array}{ll} x, \hbox { for } y\in (-\infty ,0] \hbox { and } x \in {\mathbb {R}} \hbox { or } x\in [0,\infty ) \text{ and } y \in {\mathbb {R}}\\ \tan \left( -\frac{\pi }{2}+\frac{\pi }{2}\left( \frac{2}{\pi }\arctan (x)+1\right) ^{1+\arctan (y)\left( \frac{\pi }{2} -\arctan (y)\right) }\right) ,\\ y \in (0,\infty ), x\in (-\infty ,0).\\ \end{array}\right. } \end{aligned}$$ <div  class="c-article-equation">11</div>
+
+gives a nontrivial topological quandle structure on the real line.</p>
+</sec>
+<sec depth="2">
+<p id="Par39">The following definition appeared in [<xref ref-type="bibr" rid="CR6">6</xref>
+].</p>
+</sec>
+<sec depth="2" id="FPar13"><title>Definition 3.9</title>
+
+<p id="Par40">The group of inner automorphisms of a topological quandle <italic>Inn</italic>
+($X$
+) is the subgroup of <italic>Homeo</italic>
+($X$
+) generated by the elements $R_x$
+ for $x \in X$
+. If the group <italic>Inn</italic>
+($X$
+) acts transitively on $X$
+ then we say that $X$
+ is <italic>indecomposable</italic>
+.</p>
+</sec>
+<sec depth="2" id="FPar14"><title>Remark 3.10</title>
+
+<p id="Par41">In Sect. 3 of [<xref ref-type="bibr" rid="CR6">6</xref>
+] the authors considered affine quandles on ${\mathbb {R}}$
+. This is a family of quandles $({\mathbb {R}}, f_t)$
+ with the quandle structures given by the functions $f_t(x,y) = tx+(1-t)y$
+ for a fixed $0 \ne t \in {\mathbb {R}}$
+. An affine quandle does not contain any nontrivial subquandles. On the other hand, any quandle $({\mathbb {R}}, f_t)$
+ with $t\not \in \{0,1\}$
+ induces a nontrivial indecomposable topological quandle structure on an open interval ($a$
+, $b$
+).</p>
+
+<p id="Par42">Notice that the real line with topological quandle structure from Example <xref rid="FPar12" ref-type="">3.8</xref>
+ contains a trivial subquandle $(-\infty ,0)$
+. Therefore, it is not isomorphic to any of the quandles $({\mathbb {R}}, f_t)$
+.</p>
+</sec>
+<sec depth="2">
+<p id="Par43">The following proposition appeared as Lemma 5.3 in [<xref ref-type="bibr" rid="CR6">6</xref>
+]. Here we present an alternative proof.</p>
+</sec>
+<sec depth="2" id="FPar15"><title>Proposition 3.11</title>
+
+<p id="Par44">There are no nontrivial quandle structures on the closed unit interval [0, 1] with $f$
+($x$
+, $y$
+) a polynomial.</p>
+</sec>
+<sec depth="2" id="FPar16"><title>Proof</title>
+
+<p id="Par45">Assume that $f(x,y)=\sum \nolimits _{i,j}a_{ij}x^iy^j$
+ is a polynomial function, satisfying the requirements of Definition <xref rid="FPar2" ref-type="">3.1</xref>
+. Using that $f(x,y)=f(f(x,x),y)=f(f(x,y),f(x,y))$
+, we get that the degree of $f$
+($x$
+, $y$
+) is either 0 or 1. Next, $f(0,0)=0$
+ implies the constant term vanishes and it follows that $f(x,y)=ax+by$
+. Recall that $f(0,y)=by=0 ~\forall y \in [0,1]$
+, hence, $b=0$
+ and $f(x,y)=ax$
+ (see Remark <xref rid="FPar6" ref-type="">3.4</xref>
+). The fact that $f(x,x)=x$
+ for any $x\in [0,1]$
+ concludes the proof. $\square $
+</p>
+</sec>
+</sec>
+</body>
+<back><ack><title>Acknowledgements</title>
+
+<p>I would like to thank Mohamed Elhamdadi for introducing me to the subject, bringing my attention to Conjecture 5.2 in [<xref ref-type="bibr" rid="CR6">6</xref>
+] and warm hospitality during my stay at the University of South Florida. I thank Mohamed Elbehiry for stimulating discussions and helpful suggestions on the improvement of the exposition. I am grateful to the reviewer for useful comments and corrections.</p>
+</ack>
+<ref-list id="Bib1"><title>References</title>
+<ref-list><ref id="CR1"><label>1.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Andruskiewitsch</surname>
+<given-names>N</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Graña, Matías, From racks to pointed Hopf algebras</article-title>
+<source>Adv. Math.</source>
+<year>2003</year>
+<volume>178</volume>
+<issue>2</issue>
+<fpage>177</fpage>
+<lpage>243</lpage>
+<pub-id pub-id-type="amsid">1994219</pub-id>
+<pub-id pub-id-type="doi">10.1016/S0001-8708(02)00071-3</pub-id>
+<pub-id pub-id-type="zbl">1032.16028</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR2"><label>2.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Bardakov</surname>
+<given-names>VG</given-names>
+</name>
+<name><surname>Passi</surname>
+<given-names>IBS</given-names>
+</name>
+<name><surname>Singh</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Quandle rings</article-title>
+<source>J. Algebra Appl.</source>
+<year>2019</year>
+<volume>1950157</volume>
+<fpage>23</fpage>
+<pub-id pub-id-type="amsid">3977818</pub-id>
+<pub-id pub-id-type="zbl">1473.17087</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR3"><label>3.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carter</surname>
+<given-names>J</given-names>
+</name>
+<name><surname>Crans</surname>
+<given-names>A</given-names>
+</name>
+<name><surname>Elhamdadi</surname>
+<given-names>M</given-names>
+</name>
+<name><surname>Karadayi</surname>
+<given-names>E</given-names>
+</name>
+<name><surname>Saito</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Cohomology of Frobenius algebras and the Yang-Baxter equation</article-title>
+<source>Commun. Contemp. Math.</source>
+<year>2008</year>
+<volume>10</volume>
+<issue>suppl. 1</issue>
+<fpage>791</fpage>
+<lpage>814</lpage>
+<pub-id pub-id-type="amsid">2468364</pub-id>
+<pub-id pub-id-type="doi">10.1142/S0219199708003022</pub-id>
+<pub-id pub-id-type="zbl">1180.16006</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR4"><label>4.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carter</surname>
+<given-names>J</given-names>
+</name>
+<name><surname>Crans</surname>
+<given-names>A</given-names>
+</name>
+<name><surname>Elhamdadi</surname>
+<given-names>M</given-names>
+</name>
+<name><surname>Saito</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Cohomology of categorical self-distributivity</article-title>
+<source>J. Homotopy Relat. Struct.</source>
+<year>2008</year>
+<volume>3</volume>
+<issue>1</issue>
+<fpage>13</fpage>
+<lpage>63</lpage>
+<pub-id pub-id-type="amsid">2395367</pub-id>
+<pub-id pub-id-type="zbl">1193.18009</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR5"><label>5.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Carter</surname>
+<given-names>J</given-names>
+</name>
+<name><surname>Crans</surname>
+<given-names>A</given-names>
+</name>
+<name><surname>Elhamdadi</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Saito, Masahico, Cohomology of the adjoint of Hopf algebras</article-title>
+<source>J. Gen. Lie Theory Appl.</source>
+<year>2008</year>
+<volume>2</volume>
+<issue>1</issue>
+<fpage>19</fpage>
+<lpage>34</lpage>
+<pub-id pub-id-type="amsid">2368886</pub-id>
+<pub-id pub-id-type="doi">10.4303/jglta/S070102</pub-id>
+<pub-id pub-id-type="zbl">1165.16006</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR6"><label>6.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Cheng</surname>
+<given-names>Z</given-names>
+</name>
+<name><surname>Elhamdadi</surname>
+<given-names>M</given-names>
+</name>
+<name><surname>Shekhtman</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">On the classification of topological quandles</article-title>
+<source>Topology Appl.</source>
+<year>2018</year>
+<volume>248</volume>
+<fpage>64</fpage>
+<lpage>74</lpage>
+<pub-id pub-id-type="amsid">3856599</pub-id>
+<pub-id pub-id-type="doi">10.1016/j.topol.2018.08.011</pub-id>
+<pub-id pub-id-type="zbl">1401.57024</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR7"><label>7.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Elhamdadi</surname>
+<given-names>M</given-names>
+</name>
+<name><surname>Fernando</surname>
+<given-names>N</given-names>
+</name>
+<name><surname>Tsvelikhovskiy</surname>
+<given-names>B</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Ring theoretic aspects of quandles</article-title>
+<source>J. Algebra</source>
+<year>2019</year>
+<volume>526</volume>
+<fpage>166</fpage>
+<lpage>187</lpage>
+<pub-id pub-id-type="amsid">3915329</pub-id>
+<pub-id pub-id-type="doi">10.1016/j.jalgebra.2019.02.011</pub-id>
+<pub-id pub-id-type="zbl">1478.17005</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR8"><label>8.</label>
+<mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Elhamdadi</surname>
+<given-names>M</given-names>
+</name>
+<name><surname>Nelson</surname>
+<given-names>S</given-names>
+</name>
+</person-group>
+<source>Quandles–an introduction to the algebra of knots, Student Mathematical Library.</source>
+<year>2015</year>
+<publisher-loc>Providence, RI</publisher-loc>
+<publisher-name>American Mathematical Society</publisher-name>
+<pub-id pub-id-type="zbl">1332.57007</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR9"><label>9.</label>
+<mixed-citation publication-type="book"><person-group person-group-type="author"><name><surname>Elhamdadi</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<source>Distributivity in quandles and quasigroups, conference= Algebra, geometry and mathematical physics, Springer Proc. Math. Stat.</source>
+<year>2014</year>
+<publisher-loc>Heidelberg</publisher-loc>
+<publisher-name>Springer</publisher-name>
+<fpage>325</fpage>
+<lpage>340</lpage>
+<pub-id pub-id-type="zbl">1318.20059</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR10"><label>10.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Joyce</surname>
+<given-names>D</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">A classifying invariant of knots, the knot quandle</article-title>
+<source>J. Pure Appl. Algebra</source>
+<year>1982</year>
+<volume>23</volume>
+<fpage>37</fpage>
+<lpage>65</lpage>
+<pub-id pub-id-type="amsid">638121</pub-id>
+<pub-id pub-id-type="doi">10.1016/0022-4049(82)90077-9</pub-id>
+<pub-id pub-id-type="zbl">0474.57003</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR11"><label>11.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Kinyon</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Leibniz algebras, Lie racks, and digroups</article-title>
+<source>J. Lie Theory</source>
+<year>2007</year>
+<volume>17</volume>
+<issue>1</issue>
+<fpage>99</fpage>
+<lpage>114</lpage>
+<pub-id pub-id-type="amsid">2286884</pub-id>
+<pub-id pub-id-type="zbl">1129.17002</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR12"><label>12.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Krähmer</surname>
+<given-names>U</given-names>
+</name>
+<name><surname>Wagemann</surname>
+<given-names>F</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Racks, Leibniz algebras and Yetter-Drinfel’d modules</article-title>
+<source>Georgian Math. J.</source>
+<year>2015</year>
+<volume>22</volume>
+<issue>4</issue>
+<fpage>529</fpage>
+<lpage>542</lpage>
+<pub-id pub-id-type="amsid">3430901</pub-id>
+<pub-id pub-id-type="doi">10.1515/gmj-2015-0049</pub-id>
+<pub-id pub-id-type="zbl">1401.17003</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR13"><label>13.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Matveev</surname>
+<given-names>SV</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Distributive groupoids in knot theory</article-title>
+<source>Mat. Sb. (N.S.)</source>
+<year>1982</year>
+<volume>119</volume>
+<issue>161</issue>
+<fpage>78</fpage>
+<lpage>88</lpage>
+<pub-id pub-id-type="amsid">672410</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR14"><label>14.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Rubinsztein</surname>
+<given-names>RL</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Topological quandles and invariants of links</article-title>
+<source>J. Knot Theory Ramifications</source>
+<year>2007</year>
+<volume>16</volume>
+<fpage>789</fpage>
+<lpage>808</lpage>
+<pub-id pub-id-type="amsid">2341318</pub-id>
+<pub-id pub-id-type="doi">10.1142/S0218216507005518</pub-id>
+<pub-id pub-id-type="zbl">1151.57011</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR15"><label>15.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Takasaki</surname>
+<given-names>M</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Abstraction of symmetric transformations, Japanese</article-title>
+<source>Tôhoku Math. J.</source>
+<year>1943</year>
+<volume>49</volume>
+<fpage>145</fpage>
+<lpage>207</lpage>
+<pub-id pub-id-type="amsid">21002</pub-id>
+</mixed-citation>
+</ref>
+<ref id="CR16"><label>16.</label>
+<mixed-citation publication-type="journal"><person-group person-group-type="author"><name><surname>Vendramin</surname>
+<given-names>L</given-names>
+</name>
+</person-group>
+<article-title xml:lang="en">Doubly transitive groups and cyclic quandles</article-title>
+<source>J. Math. Soc. Japan</source>
+<year>2017</year>
+<volume>69</volume>
+<issue>3</issue>
+<fpage>1051</fpage>
+<lpage>1057</lpage>
+<pub-id pub-id-type="amsid">3685034</pub-id>
+<pub-id pub-id-type="doi">10.2969/jmsj/06931051</pub-id>
+<pub-id pub-id-type="zbl">1373.20081</pub-id>
+</mixed-citation>
+</ref>
+</ref-list>
+</ref-list>
+<notes notes-type="Misc"><title>Publisher's Note</title>
+
+<p>Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.</p>
+</notes>
+</back>
+</article>
+
+
